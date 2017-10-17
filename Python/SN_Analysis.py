@@ -9,12 +9,12 @@ def	createSocialNetwork(authorsTable):
 	authorsDictionary 	= {}
 	connectedAuthors	= []
 	articleNumber		= 0
-	authorColumn 		= authorsTable.columns.get_loc('Autor')
-	articleColumn 		= authorsTable.columns.get_loc('Artigos')
+	authorColumn 		= authorsTable.columns.get_loc('Author')
+	articleColumn 		= authorsTable.columns.get_loc('Articles')
 
 	columnHeaders 		= list(authorsTable.columns.values)
 
-	grouped 	= authorsTable.groupby('Artigos')
+	grouped 	= authorsTable.groupby('Articles')
 	groupList 	= grouped.groups
 
 

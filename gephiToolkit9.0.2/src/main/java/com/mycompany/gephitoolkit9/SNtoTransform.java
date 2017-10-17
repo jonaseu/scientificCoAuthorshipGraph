@@ -87,8 +87,8 @@ public class SNtoTransform {
         Column centralityColumn = graphModel.getNodeTable().getColumn(GraphDistance.BETWEENNESS);
         Function centralityRanking = appearanceModel.getNodeFunction(graph, centralityColumn, RankingNodeSizeTransformer.class);
         RankingNodeSizeTransformer centralityTransformer = (RankingNodeSizeTransformer) centralityRanking.getTransformer();
-        centralityTransformer.setMinSize(5);
-        centralityTransformer.setMaxSize(30);
+        centralityTransformer.setMinSize(1);
+        centralityTransformer.setMaxSize(50);
         appearanceController.transform(centralityRanking);
     }
 
@@ -219,12 +219,9 @@ public class SNtoTransform {
 
         //Append imported data to GraphAPI
         importController.process(container, new DefaultProcessor(), workspace);
+        graph = graphModel.getUndirectedGraph();
 
         //See if graph is well imported
-        graph = graphModel.getUndirectedGraph();
-        System.out.println("Nodes: " + graph.getNodeCount());
-        System.out.println("Edges: " + graph.getEdgeCount());
-
         UndirectedGraph graphVisible = graphModel.getUndirectedGraphVisible();
         System.out.println("Nodes: " + graphVisible.getNodeCount());
         System.out.println("Edges: " + graphVisible.getEdgeCount());
@@ -233,7 +230,7 @@ public class SNtoTransform {
         changeLayoutForceAtlas();
         //changeLayoutForceAtlasYifan();
         //======================================================================
-        changeColorByColumn("País");
+        changeColorByColumn("Country");
 
         //======================================================================
         changeSizeByDegree();

@@ -11,7 +11,7 @@ def getGroupedTableFromEasyChairFiles(authorsPath,articlesPath):
 	
 	##OPEN ACCEPTED AUTHORS FILE AND GROUPS THE TABLE BY ARTICLE ID =================================================================
 	authorsTable	= pd.read_excel(authorsPath, 'Accepted', index_col=None, na_values=['NA'])
-	authorsTable.loc[:,'Artigos'] = 'x'
+	authorsTable.loc[:,'Articles'] = 'x'
 	grouped 		= authorsTable.groupby('#')
 
 	##OPEN ACCEPTED ARTICLES HTML AND EXTRACTS THEIR NAMES ==========================================================================
@@ -24,14 +24,13 @@ def getGroupedTableFromEasyChairFiles(authorsPath,articlesPath):
 	articlePos	= 0
 	groupPos 	= 0
 	for name, group in grouped:
-		authorsTable.loc[groupPos:+groupPos+len(group),'Artigos'] = articlesNames[articlePos].title()
+		authorsTable.loc[groupPos:+groupPos+len(group),'Articles'] = articlesNames[articlePos].title()
 		groupPos 	+= len(group)
 		articlePos 	+= 1
 
 	##REMOVES ARTICLE ID ============================================================================================================
 	authorsTable.drop('#', axis=1, inplace=True)
 	
-	authorsTable.rename(columns={'Author': 'Autor', 'Affiliation': 'Afiliação','Country':'País'}, inplace=True)
 	#authorsTable.to_csv('Authors and Articles.csv',index=False)
 	return authorsTable
 
@@ -41,7 +40,7 @@ def removeAlikeAuthors(fileTable):
 	alikeAuthors 	= []
 	alikeAuthorsPos = []
 
-	authorColumn 	= fileTable.columns.get_loc('Autor')+1
+	authorColumn 	= fileTable.columns.get_loc('Author')+1
 	emailColumn 	= fileTable.columns.get_loc('Email')+1
 
 	for i,rowI in enumerate(fileTable.itertuples()):
@@ -67,7 +66,7 @@ def removeAlikeAuthors(fileTable):
 		if ( len(alikeAuthors) 	> 1):
 			correctAuthorName 	= chooseCorrectAuthor(alikeAuthors)
 			for pos in alikeAuthorsPos:
-				fileTable.loc[pos,'Autor'] = correctAuthorName
+				fileTable.loc[pos,'Author'] = correctAuthorName
 			
 			#print('Choosen as correct name: ', correctAuthorName)
 
