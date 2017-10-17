@@ -1,0 +1,6 @@
+Linhas 245 =  display node
+linha 384 = Header de coisas não ligadas
+linha 761 = intensidade da cor ao nao ser central
+linha 819 = cor das edged cenrais
+
+-AOclicar em um nodo ele se torna o central, ja que ao clicar activeNODE = Nodo clicado e ao observar linha 972
