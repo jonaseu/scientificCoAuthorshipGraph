@@ -8,7 +8,10 @@ minAuthorLevenshteinDistance	= 0.7
 minEmailLevenshteinDistance		= 0.8
 
 def getGroupedTableFromEasyChairFiles(authorsPath,articlesPath):
-	
+	''' Outputs a table that is a mix of 'authors.xlsx' and 'articles.html' files extracted manually from EasyChair. First input must be
+	the authors file, and the second must be the articles path. This is for having a single table that contains all the data of the conference,
+	containing all the names of the published articles and who wrote it.
+	'''
 	##OPEN ACCEPTED AUTHORS FILE AND GROUPS THE TABLE BY ARTICLE ID =================================================================
 	authorsTable	= pd.read_excel(authorsPath, 'Accepted', index_col=None, na_values=['NA'])
 	authorsTable.loc[:,'Articles'] = 'x'
@@ -37,6 +40,9 @@ def getGroupedTableFromEasyChairFiles(authorsPath,articlesPath):
 
 
 def removeAlikeAuthors(fileTable):
+	''' Takes a list of all the authors and checks for very alike names based on Levenshtein distance. If the names are very alike and 
+	so does the author email, then the authors are considered equals and the names are made completly equal.
+	'''
 	alikeAuthors 	= []
 	alikeAuthorsPos = []
 
@@ -79,8 +85,8 @@ def removeAlikeAuthors(fileTable):
 
 
 def chooseCorrectAuthor(authorNameList):
-	'''Chooses among the input list, what is the correct author name.
-	It chooses by selecting the most seen name or, if there is no duplicates, it chooses the longest. 
+	'''Chooses among the input list of alike names, what is the correct author name.
+	It chooses by selecting the most seen name, or, if there is no repeated names, it chooses the longest. 
 	'''
 
 	mostAppearances 	= -1

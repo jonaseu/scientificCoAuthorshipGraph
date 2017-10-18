@@ -210,7 +210,7 @@ public class SNtoTransform {
         Container container;
         try {
             //File file = new File(getClass().getResource("/org/gephi/toolkit/demos/polblogs.gml").toURI());
-            File file = new File("simpleSN.graphml");
+            File file = new File("../SN-noLayout.graphml");
             container = importController.importFile(file);
             container.getLoader().setEdgeDefault(EdgeDirectionDefault.UNDIRECTED);   //Force DIRECTED
         } catch (Exception ex) {

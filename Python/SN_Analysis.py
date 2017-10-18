@@ -4,6 +4,9 @@ import pandas as pd 											#For managing the articles tables
 import networkx as nx 											#For creating the social network
 import os 														#For removing unused files
 def	createSocialNetwork(authorsTable):
+	''' Creates a social network file (graphml) based on the input table. The output file is generated on 'gephiToolkit9.0.2' folder.
+	The input table must contain at least a column 'Author' and a column 'Articles'. 
+	'''
 
 	G 					= nx.Graph()
 	authorsDictionary 	= {}
@@ -53,13 +56,17 @@ def	createSocialNetwork(authorsTable):
 			for l in range(len(edges)):
 				G.add_edge(edges[l][0],edges[l][1])
 
-	nx.write_graphml(G,'simpleSN.graphml')
-	fixGraphmlKeyBug()
+	outputFileName = 'SN-noLayout.graphml'
+	nx.write_graphml(G,outputFileName)
+	fixGraphmlKeyBug(outputFileName)
 
 
-def fixGraphmlKeyBug():
-	f = open('simpleSN.graphml','r')
-	o = open('../gephiToolkit9.0.2/simpleSN.graphml','w+')	
+def fixGraphmlKeyBug(inputFile):
+	''' Graphml files created via networkx package won't allow to change the attribute name, wich is mandatory for the rest of the application.
+	It takes the graphml input file and change its attributes names to fit their label. After changing it, save the new graphml file in the upper folder.
+	'''
+	f = open(inputFile,'r')
+	o = open('../'+inputFile,'w+')	
 	keys = {}	
 	for line in f:
 		hasChanged = False
@@ -81,7 +88,7 @@ def fixGraphmlKeyBug():
 
 	f.close()
 	o.close()
-	os.remove("simpleSN.graphml")	
+	os.remove(inputFile)	
 
 def defineAuthorsEdges(list):
     """Returns the authors edges from a list of authors. There will be n! edges considering n authors.
