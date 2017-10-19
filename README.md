@@ -1,6 +1,6 @@
 # What is this project?
 
-To help better and easily visualize how authors interact in a conference, this project takes a list of authors and their respective articles from EasyChair and then generate the social network from the conference. In this network, the nodes are the Authors and the authors whom this author worked with are the edges. This output social network (SN) is visible in an amazing [JavaScript project](https://github.com/raphv/gexf-js) with some small adaptations to be fitted in a conference network. This presented data visualization tool allows anyone to rapidly see who are the most connected authors, from wich country they are and many other specific characteristics from the author.
+To help better and easily visualize how authors interact in a conference, this project takes a list of authors and their respective articles from EasyChair and then generate the social network from the conference. In this network, the nodes are the Authors and the authors whom this author worked with are the edges. This output social network (SN) is visible in an javascript. This presented data visualization tool allows anyone to rapidly see who are the most connected authors, from wich country they are and many other specific characteristics from the author.
 
 ----
 # How this code work?
@@ -18,5 +18,5 @@ It uses the Gephi API to improve the visualization of the network, since [networ
 
 # JavaScript
 
-Adapted from the [already mentioned project](https://github.com/raphv/gexf-js) this step is for the web visualization, it takes the "gexf" file and makes it visible and interactive. The changes from the original project were some labels, the possibility to show the edges from a given article name, and the list of the author's articles.
+This step is for the web visualization, it takes the "gexf" file and makes it visible and interactive. The changes from the original project were some labels, the possibility to show the edges from a given article name, and the list of the author's articles.
 
