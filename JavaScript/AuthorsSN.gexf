@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
-  <meta lastmodifieddate="2017-10-18">
+  <meta lastmodifieddate="2017-10-19">
     <creator>Gephi 0.9</creator>
     <description></description>
   </meta>
@@ -19,9 +19,9 @@
           <attvalue for="country" value="Mexico"></attvalue>
           <attvalue for="affiliation" value="Universidad Virtual de la Universidad de Guadalajara"></attvalue>
         </attvalues>
-        <viz:size value="6.470588"></viz:size>
-        <viz:position x="170.70285" y="158.26663"></viz:position>
-        <viz:color r="255" g="117" b="38"></viz:color>
+        <viz:size value="8.529411"></viz:size>
+        <viz:position x="215.65726" y="-55.310196"></viz:position>
+        <viz:color r="0" g="215" b="255"></viz:color>
       </node>
       <node id="Marcos Eduardo Da Silva Santos" label="Marcos Eduardo Da Silva Santos">
         <attvalues>
@@ -30,9 +30,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="Universidade Estadual do Ceará"></attvalue>
         </attvalues>
-        <viz:size value="8.705883"></viz:size>
-        <viz:position x="223.5632" y="-194.7486"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="12.294118"></viz:size>
+        <viz:position x="270.56796" y="-321.35318"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="Vinícius de Carli" label="Vinícius de Carli">
         <attvalues>
@@ -41,9 +41,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="IFRS"></attvalue>
         </attvalues>
-        <viz:size value="13.176471"></viz:size>
-        <viz:position x="615.41394" y="-95.59842"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="19.82353"></viz:size>
+        <viz:position x="811.6702" y="-363.62488"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="Ana Casali" label="Ana Casali">
         <attvalues>
@@ -52,9 +52,9 @@
           <attvalue for="country" value="Argentina"></attvalue>
           <attvalue for="affiliation" value="Universidad Nacional de Rosario; Centro Internacional Franco Argentino de Ciencias de la Información y de Sistemas CIFASIS"></attvalue>
         </attvalues>
-        <viz:size value="8.705883"></viz:size>
-        <viz:position x="-12.989068" y="268.78378"></viz:position>
-        <viz:color r="0" g="218" b="255"></viz:color>
+        <viz:size value="12.294118"></viz:size>
+        <viz:position x="398.16754" y="275.3318"></viz:position>
+        <viz:color r="255" g="139" b="0"></viz:color>
       </node>
       <node id="Clodis Boscarioli" label="Clodis Boscarioli">
         <attvalues>
@@ -63,9 +63,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="UNIOESTE"></attvalue>
         </attvalues>
-        <viz:size value="13.176471"></viz:size>
-        <viz:position x="14.597831" y="-513.6575"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="19.82353"></viz:size>
+        <viz:position x="-687.351" y="219.1363"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="Osner Rebete Guillermo" label="Osner Rebete Guillermo">
         <attvalues>
@@ -74,9 +74,9 @@
           <attvalue for="country" value="Venezuela"></attvalue>
           <attvalue for="affiliation" value="Universidad Central de Venezuela"></attvalue>
         </attvalues>
-        <viz:size value="6.470588"></viz:size>
-        <viz:position x="-25.545105" y="183.33904"></viz:position>
-        <viz:color r="215" g="171" b="0"></viz:color>
+        <viz:size value="8.529411"></viz:size>
+        <viz:position x="-293.79993" y="267.78812"></viz:position>
+        <viz:color r="0" g="104" b="116"></viz:color>
       </node>
       <node id="Richarlyson D’emery" label="Richarlyson D’emery">
         <attvalues>
@@ -85,9 +85,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="UFRPE"></attvalue>
         </attvalues>
-        <viz:size value="8.705883"></viz:size>
-        <viz:position x="360.4019" y="123.34007"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="12.294118"></viz:size>
+        <viz:position x="-504.8409" y="-249.39062"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="Maria Amelia Eliseo" label="Maria Amelia Eliseo">
         <attvalues>
@@ -96,9 +96,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="Universidade Presbiteriana Mackenzie"></attvalue>
         </attvalues>
-        <viz:size value="26.588236"></viz:size>
-        <viz:position x="-561.29346" y="675.61365"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="42.411766"></viz:size>
+        <viz:position x="687.4433" y="-1133.1653"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="Angel Eduardo Muñoz" label="Angel Eduardo Muñoz">
         <attvalues>
@@ -107,9 +107,9 @@
           <attvalue for="country" value="Mexico"></attvalue>
           <attvalue for="affiliation" value="Universidad Autonoma de Aguascalientes"></attvalue>
         </attvalues>
-        <viz:size value="10.941176"></viz:size>
-        <viz:position x="-299.009" y="-324.95105"></viz:position>
-        <viz:color r="255" g="117" b="38"></viz:color>
+        <viz:size value="16.058823"></viz:size>
+        <viz:position x="-58.566456" y="810.1579"></viz:position>
+        <viz:color r="0" g="215" b="255"></viz:color>
       </node>
       <node id="Alex Sandro Gomes" label="Alex Sandro Gomes">
         <attvalues>
@@ -118,9 +118,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="Universidade Federal de Pernambuco"></attvalue>
         </attvalues>
-        <viz:size value="6.470588"></viz:size>
-        <viz:position x="-5.832162" y="216.34013"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="8.529411"></viz:size>
+        <viz:position x="-185.36288" y="-150.48523"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="Oscar Iván Justinico Castro" label="Oscar Iván Justinico Castro">
         <attvalues>
@@ -129,9 +129,9 @@
           <attvalue for="country" value="Colombia"></attvalue>
           <attvalue for="affiliation" value="Universidad Nacional de Colombia"></attvalue>
         </attvalues>
-        <viz:size value="6.470588"></viz:size>
-        <viz:position x="54.69365" y="78.082664"></viz:position>
-        <viz:color r="83" g="212" b="0"></viz:color>
+        <viz:size value="8.529411"></viz:size>
+        <viz:position x="-195.37299" y="28.164423"></viz:position>
+        <viz:color r="60" g="217" b="0"></viz:color>
       </node>
       <node id="Julián Moreno Cadavid" label="Julián Moreno Cadavid">
         <attvalues>
@@ -140,9 +140,9 @@
           <attvalue for="country" value="Colombia"></attvalue>
           <attvalue for="affiliation" value="Universidad Nacional de Colombia - Sede Medellín"></attvalue>
         </attvalues>
-        <viz:size value="15.411765"></viz:size>
-        <viz:position x="627.6593" y="15.622401"></viz:position>
-        <viz:color r="83" g="212" b="0"></viz:color>
+        <viz:size value="23.588236"></viz:size>
+        <viz:position x="-777.1884" y="52.846916"></viz:position>
+        <viz:color r="60" g="217" b="0"></viz:color>
       </node>
       <node id="Martín Perez" label="Martín Perez">
         <attvalues>
@@ -151,9 +151,9 @@
           <attvalue for="country" value="Argentina"></attvalue>
           <attvalue for="affiliation" value="Universidad Nacional de Rosario"></attvalue>
         </attvalues>
-        <viz:size value="26.588236"></viz:size>
-        <viz:position x="-848.8403" y="322.00214"></viz:position>
-        <viz:color r="0" g="218" b="255"></viz:color>
+        <viz:size value="42.411766"></viz:size>
+        <viz:position x="598.58636" y="-1386.7943"></viz:position>
+        <viz:color r="255" g="139" b="0"></viz:color>
       </node>
       <node id="Neda Gonçalves" label="Neda Gonçalves">
         <attvalues>
@@ -162,9 +162,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="PUCRS"></attvalue>
         </attvalues>
-        <viz:size value="8.705883"></viz:size>
-        <viz:position x="-177.68745" y="-304.5593"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="12.294118"></viz:size>
+        <viz:position x="550.73315" y="-103.82828"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="José Schulz" label="José Schulz">
         <attvalues>
@@ -173,9 +173,9 @@
           <attvalue for="country" value="Argentina"></attvalue>
           <attvalue for="affiliation" value="LINTI - Facultad de Informática - UNLP"></attvalue>
         </attvalues>
-        <viz:size value="13.176471"></viz:size>
-        <viz:position x="-159.11853" y="491.4779"></viz:position>
-        <viz:color r="0" g="218" b="255"></viz:color>
+        <viz:size value="19.82353"></viz:size>
+        <viz:position x="201.082" y="807.00885"></viz:position>
+        <viz:color r="255" g="139" b="0"></viz:color>
       </node>
       <node id="Jacqueline Solis" label="Jacqueline Solis">
         <attvalues>
@@ -184,9 +184,9 @@
           <attvalue for="country" value="Costa Rica"></attvalue>
           <attvalue for="affiliation" value="Costa Rica Institute of Technology"></attvalue>
         </attvalues>
-        <viz:size value="6.470588"></viz:size>
-        <viz:position x="159.84372" y="110.8495"></viz:position>
-        <viz:color r="84" g="180" b="255"></viz:color>
+        <viz:size value="8.529411"></viz:size>
+        <viz:position x="-74.49113" y="-267.05148"></viz:position>
+        <viz:color r="255" g="102" b="177"></viz:color>
       </node>
       <node id="Sandra Vergara Cardozo" label="Sandra Vergara Cardozo">
         <attvalues>
@@ -195,9 +195,9 @@
           <attvalue for="country" value="Colombia"></attvalue>
           <attvalue for="affiliation" value="Universidad Nacional de Colombia"></attvalue>
         </attvalues>
-        <viz:size value="6.470588"></viz:size>
-        <viz:position x="90.46799" y="-93.56711"></viz:position>
-        <viz:color r="83" g="212" b="0"></viz:color>
+        <viz:size value="8.529411"></viz:size>
+        <viz:position x="278.50705" y="432.2526"></viz:position>
+        <viz:color r="60" g="217" b="0"></viz:color>
       </node>
       <node id="Jorge Maturana" label="Jorge Maturana">
         <attvalues>
@@ -206,9 +206,9 @@
           <attvalue for="country" value="Chile"></attvalue>
           <attvalue for="affiliation" value="Universidad Austral de Chile"></attvalue>
         </attvalues>
-        <viz:size value="8.705883"></viz:size>
-        <viz:position x="-175.24379" y="196.32831"></viz:position>
-        <viz:color r="0" g="100" b="112"></viz:color>
+        <viz:size value="12.294118"></viz:size>
+        <viz:position x="-302.11966" y="-191.03503"></viz:position>
+        <viz:color r="185" g="178" b="0"></viz:color>
       </node>
       <node id="Gunnar Wolf" label="Gunnar Wolf">
         <attvalues>
@@ -217,9 +217,9 @@
           <attvalue for="country" value="Mexico"></attvalue>
           <attvalue for="affiliation" value="Universidad Nacional Autonoma de México"></attvalue>
         </attvalues>
-        <viz:size value="6.470588"></viz:size>
-        <viz:position x="-91.67352" y="108.260826"></viz:position>
-        <viz:color r="255" g="117" b="38"></viz:color>
+        <viz:size value="8.529411"></viz:size>
+        <viz:position x="-73.36793" y="154.76862"></viz:position>
+        <viz:color r="0" g="215" b="255"></viz:color>
       </node>
       <node id="Fredy Aponte" label="Fredy Aponte">
         <attvalues>
@@ -228,9 +228,9 @@
           <attvalue for="country" value="Colombia"></attvalue>
           <attvalue for="affiliation" value="Universidad Santo Tomás Seccional Tunja"></attvalue>
         </attvalues>
-        <viz:size value="6.470588"></viz:size>
-        <viz:position x="-164.36786" y="13.421872"></viz:position>
-        <viz:color r="83" g="212" b="0"></viz:color>
+        <viz:size value="8.529411"></viz:size>
+        <viz:position x="304.68512" y="-91.967094"></viz:position>
+        <viz:color r="60" g="217" b="0"></viz:color>
       </node>
       <node id="Sandoval Jésus" label="Sandoval Jésus">
         <attvalues>
@@ -239,9 +239,9 @@
           <attvalue for="country" value="Mexico"></attvalue>
           <attvalue for="affiliation" value="Universidad Autónoma de Baja California Sur"></attvalue>
         </attvalues>
-        <viz:size value="10.941176"></viz:size>
-        <viz:position x="124.51178" y="-426.6546"></viz:position>
-        <viz:color r="255" g="117" b="38"></viz:color>
+        <viz:size value="16.058823"></viz:size>
+        <viz:position x="145.30948" y="-634.78534"></viz:position>
+        <viz:color r="0" g="215" b="255"></viz:color>
       </node>
       <node id="Yiseth Katherine Rojas Picón" label="Yiseth Katherine Rojas Picón">
         <attvalues>
@@ -250,9 +250,9 @@
           <attvalue for="country" value="Colombia"></attvalue>
           <attvalue for="affiliation" value="Universidad Popular del Cesar"></attvalue>
         </attvalues>
-        <viz:size value="2.0"></viz:size>
-        <viz:position x="7.619744" y="32.662388"></viz:position>
-        <viz:color r="83" g="212" b="0"></viz:color>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="19.125631" y="-28.051373"></viz:position>
+        <viz:color r="60" g="217" b="0"></viz:color>
       </node>
       <node id="Jeimy Vélez" label="Jeimy Vélez">
         <attvalues>
@@ -261,9 +261,9 @@
           <attvalue for="country" value="Colombia"></attvalue>
           <attvalue for="affiliation" value="U.P.Bolivariana Montería"></attvalue>
         </attvalues>
-        <viz:size value="6.470588"></viz:size>
-        <viz:position x="148.80783" y="-126.942535"></viz:position>
-        <viz:color r="83" g="212" b="0"></viz:color>
+        <viz:size value="8.529411"></viz:size>
+        <viz:position x="-277.91846" y="-72.22485"></viz:position>
+        <viz:color r="60" g="217" b="0"></viz:color>
       </node>
       <node id="José Manuel Arroyo Osorio" label="José Manuel Arroyo Osorio">
         <attvalues>
@@ -272,9 +272,9 @@
           <attvalue for="country" value="Colombia"></attvalue>
           <attvalue for="affiliation" value="Universidad Nacional de Colombia"></attvalue>
         </attvalues>
-        <viz:size value="6.470588"></viz:size>
-        <viz:position x="63.469734" y="-128.93312"></viz:position>
-        <viz:color r="83" g="212" b="0"></viz:color>
+        <viz:size value="8.529411"></viz:size>
+        <viz:position x="-200.1295" y="-15.02886"></viz:position>
+        <viz:color r="60" g="217" b="0"></viz:color>
       </node>
       <node id="Alicia Diaz" label="Alicia Diaz">
         <attvalues>
@@ -283,9 +283,9 @@
           <attvalue for="country" value="Argentina"></attvalue>
           <attvalue for="affiliation" value="LIFIA, Facultad de Informática, UNLP"></attvalue>
         </attvalues>
-        <viz:size value="17.64706"></viz:size>
-        <viz:position x="-203.84761" y="-577.97675"></viz:position>
-        <viz:color r="0" g="218" b="255"></viz:color>
+        <viz:size value="27.352942"></viz:size>
+        <viz:position x="894.9967" y="561.1592"></viz:position>
+        <viz:color r="255" g="139" b="0"></viz:color>
       </node>
       <node id="Cecilia Avila" label="Cecilia Avila">
         <attvalues>
@@ -294,9 +294,9 @@
           <attvalue for="country" value="Spain"></attvalue>
           <attvalue for="affiliation" value="Universitat de Girona"></attvalue>
         </attvalues>
-        <viz:size value="15.411765"></viz:size>
-        <viz:position x="93.096245" y="588.4237"></viz:position>
-        <viz:color r="255" g="99" b="155"></viz:color>
+        <viz:size value="23.588236"></viz:size>
+        <viz:position x="-1030.459" y="-171.91197"></viz:position>
+        <viz:color r="110" g="172" b="255"></viz:color>
       </node>
       <node id="María Dolores Villalpando Calderón" label="María Dolores Villalpando Calderón">
         <attvalues>
@@ -305,9 +305,9 @@
           <attvalue for="country" value="Mexico"></attvalue>
           <attvalue for="affiliation" value="Universidad Autónoma de Aguascalientes"></attvalue>
         </attvalues>
-        <viz:size value="6.470588"></viz:size>
-        <viz:position x="145.22835" y="214.05357"></viz:position>
-        <viz:color r="255" g="117" b="38"></viz:color>
+        <viz:size value="8.529411"></viz:size>
+        <viz:position x="-307.27396" y="313.04614"></viz:position>
+        <viz:color r="0" g="215" b="255"></viz:color>
       </node>
       <node id="Francisco Javier Álvarez Rodríguez" label="Francisco Javier Álvarez Rodríguez">
         <attvalues>
@@ -316,9 +316,9 @@
           <attvalue for="country" value="Mexico"></attvalue>
           <attvalue for="affiliation" value="Universidad Autónoma de Aguascalientes"></attvalue>
         </attvalues>
-        <viz:size value="19.882353"></viz:size>
-        <viz:position x="-409.7369" y="325.0232"></viz:position>
-        <viz:color r="255" g="117" b="38"></viz:color>
+        <viz:size value="31.117647"></viz:size>
+        <viz:position x="-162.43654" y="787.993"></viz:position>
+        <viz:color r="0" g="215" b="255"></viz:color>
       </node>
       <node id="Luiz Henrique Falavigna" label="Luiz Henrique Falavigna">
         <attvalues>
@@ -327,9 +327,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="Universidade Presbiteriana Mackenzie"></attvalue>
         </attvalues>
-        <viz:size value="26.588236"></viz:size>
-        <viz:position x="-699.88116" y="399.86472"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="42.411766"></viz:size>
+        <viz:position x="550.3357" y="-1254.3545"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="Julio Ponce" label="Julio Ponce">
         <attvalues>
@@ -338,9 +338,9 @@
           <attvalue for="country" value="Mexico"></attvalue>
           <attvalue for="affiliation" value="Universidad Autonoma de Aguascalientes"></attvalue>
         </attvalues>
-        <viz:size value="13.176471"></viz:size>
-        <viz:position x="-54.591732" y="-450.8198"></viz:position>
-        <viz:color r="255" g="117" b="38"></viz:color>
+        <viz:size value="19.82353"></viz:size>
+        <viz:position x="-432.07755" y="691.3088"></viz:position>
+        <viz:color r="0" g="215" b="255"></viz:color>
       </node>
       <node id="Virginia Rodés" label="Virginia Rodés">
         <attvalues>
@@ -349,9 +349,9 @@
           <attvalue for="country" value="Uruguay"></attvalue>
           <attvalue for="affiliation" value="Universidad de la República"></attvalue>
         </attvalues>
-        <viz:size value="31.058825"></viz:size>
-        <viz:position x="-662.6892" y="540.79224"></viz:position>
-        <viz:color r="223" g="193" b="173"></viz:color>
+        <viz:size value="49.941177"></viz:size>
+        <viz:position x="1119.3701" y="500.8876"></viz:position>
+        <viz:color r="223" g="191" b="164"></viz:color>
       </node>
       <node id="Jimena Flórez Chalarca" label="Jimena Flórez Chalarca">
         <attvalues>
@@ -360,9 +360,9 @@
           <attvalue for="country" value="Colombia"></attvalue>
           <attvalue for="affiliation" value="Universidad Nacional de Colombia - Sede Manizales"></attvalue>
         </attvalues>
-        <viz:size value="10.941176"></viz:size>
-        <viz:position x="-244.0167" y="-282.6427"></viz:position>
-        <viz:color r="83" g="212" b="0"></viz:color>
+        <viz:size value="16.058823"></viz:size>
+        <viz:position x="-792.17035" y="-104.77202"></viz:position>
+        <viz:color r="60" g="217" b="0"></viz:color>
       </node>
       <node id="Dora Ines Calderón" label="Dora Ines Calderón">
         <attvalues>
@@ -371,9 +371,9 @@
           <attvalue for="country" value="Colombia"></attvalue>
           <attvalue for="affiliation" value="Universidad Distrital Francisco JosÃ© de Caldas"></attvalue>
         </attvalues>
-        <viz:size value="10.941176"></viz:size>
-        <viz:position x="380.88928" y="314.14517"></viz:position>
-        <viz:color r="83" g="212" b="0"></viz:color>
+        <viz:size value="16.058823"></viz:size>
+        <viz:position x="-341.80066" y="-632.7847"></viz:position>
+        <viz:color r="60" g="217" b="0"></viz:color>
       </node>
       <node id="Maurício Covolan Rosito" label="Maurício Covolan Rosito">
         <attvalues>
@@ -382,9 +382,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="Instituto Federal do Rio Grande do Sul"></attvalue>
         </attvalues>
-        <viz:size value="13.176471"></viz:size>
-        <viz:position x="590.0004" y="-162.555"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="19.82353"></viz:size>
+        <viz:position x="845.88165" y="-302.79333"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="Laura Andrea González Maldonado" label="Laura Andrea González Maldonado">
         <attvalues>
@@ -393,9 +393,9 @@
           <attvalue for="country" value="Colombia"></attvalue>
           <attvalue for="affiliation" value="Universidad Nacional de Colombia"></attvalue>
         </attvalues>
-        <viz:size value="6.470588"></viz:size>
-        <viz:position x="282.39975" y="-70.74471"></viz:position>
-        <viz:color r="83" g="212" b="0"></viz:color>
+        <viz:size value="8.529411"></viz:size>
+        <viz:position x="364.6558" y="382.73062"></viz:position>
+        <viz:color r="60" g="217" b="0"></viz:color>
       </node>
       <node id="Zuly Astrid Parra Triana" label="Zuly Astrid Parra Triana">
         <attvalues>
@@ -404,9 +404,9 @@
           <attvalue for="country" value="Colombia"></attvalue>
           <attvalue for="affiliation" value="Universidad Santo Tomás Seccional Tunja"></attvalue>
         </attvalues>
-        <viz:size value="6.470588"></viz:size>
-        <viz:position x="-240.32347" y="-1.2133975"></viz:position>
-        <viz:color r="83" g="212" b="0"></viz:color>
+        <viz:size value="8.529411"></viz:size>
+        <viz:position x="272.45392" y="-116.51144"></viz:position>
+        <viz:color r="60" g="217" b="0"></viz:color>
       </node>
       <node id="Clevi Elena Rapkiewicz" label="Clevi Elena Rapkiewicz">
         <attvalues>
@@ -415,9 +415,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="UFRGS"></attvalue>
         </attvalues>
-        <viz:size value="13.176471"></viz:size>
-        <viz:position x="499.82492" y="-94.72609"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="19.82353"></viz:size>
+        <viz:position x="-590.9539" y="-751.8003"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="Israel Duran" label="Israel Duran">
         <attvalues>
@@ -426,9 +426,9 @@
           <attvalue for="country" value="Mexico"></attvalue>
           <attvalue for="affiliation" value="Universidad Autónoma de Baja California Sur"></attvalue>
         </attvalues>
-        <viz:size value="10.941176"></viz:size>
-        <viz:position x="-135.01146" y="403.48734"></viz:position>
-        <viz:color r="255" g="117" b="38"></viz:color>
+        <viz:size value="16.058823"></viz:size>
+        <viz:position x="638.241" y="53.24445"></viz:position>
+        <viz:color r="0" g="215" b="255"></viz:color>
       </node>
       <node id="Ellen Mendez Xavier" label="Ellen Mendez Xavier">
         <attvalues>
@@ -437,9 +437,9 @@
           <attvalue for="country" value="Paraguay"></attvalue>
           <attvalue for="affiliation" value="Departamento de Informática, Facultad Politécnica – Universidad Nacional de Asunción (UNA)"></attvalue>
         </attvalues>
-        <viz:size value="22.11765"></viz:size>
-        <viz:position x="-85.790115" y="-748.16174"></viz:position>
-        <viz:color r="155" g="70" b="44"></viz:color>
+        <viz:size value="34.882355"></viz:size>
+        <viz:position x="906.9934" y="741.4731"></viz:position>
+        <viz:color r="106" g="79" b="19"></viz:color>
       </node>
       <node id="Júlia M. C. Silva" label="Júlia M. C. Silva">
         <attvalues>
@@ -448,9 +448,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="Instituto Federal do Rio Grande do Sul"></attvalue>
         </attvalues>
-        <viz:size value="15.411765"></viz:size>
-        <viz:position x="574.28015" y="-271.61447"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="23.588236"></viz:size>
+        <viz:position x="907.6175" y="-404.2189"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="Carlos Rodriguez-Solano" label="Carlos Rodriguez-Solano">
         <attvalues>
@@ -459,9 +459,9 @@
           <attvalue for="country" value="Spain"></attvalue>
           <attvalue for="affiliation" value="Universidad de Alcalá"></attvalue>
         </attvalues>
-        <viz:size value="8.705883"></viz:size>
-        <viz:position x="111.23688" y="-306.2911"></viz:position>
-        <viz:color r="255" g="99" b="155"></viz:color>
+        <viz:size value="12.294118"></viz:size>
+        <viz:position x="-97.07385" y="-394.69327"></viz:position>
+        <viz:color r="110" g="172" b="255"></viz:color>
       </node>
       <node id="Regina Motz" label="Regina Motz">
         <attvalues>
@@ -470,9 +470,9 @@
           <attvalue for="country" value="Uruguay"></attvalue>
           <attvalue for="affiliation" value="Instituto de Computación, Facultad de Ingeniería, Universidad de la República  (UDELAR)"></attvalue>
         </attvalues>
-        <viz:size value="17.64706"></viz:size>
-        <viz:position x="558.5957" y="147.41054"></viz:position>
-        <viz:color r="223" g="193" b="173"></viz:color>
+        <viz:size value="27.352942"></viz:size>
+        <viz:position x="869.31604" y="650.53894"></viz:position>
+        <viz:color r="223" g="191" b="164"></viz:color>
       </node>
       <node id="René Faruk Garzozi Pincay" label="René Faruk Garzozi Pincay">
         <attvalues>
@@ -481,9 +481,9 @@
           <attvalue for="country" value="Ecuador"></attvalue>
           <attvalue for="affiliation" value="Universidad Tecnológica Equinoccial"></attvalue>
         </attvalues>
-        <viz:size value="2.0"></viz:size>
-        <viz:position x="-22.747364" y="44.566044"></viz:position>
-        <viz:color r="140" g="80" b="136"></viz:color>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-24.979765" y="-11.059274"></viz:position>
+        <viz:color r="0" g="211" b="194"></viz:color>
       </node>
       <node id="Agostinho Serrano" label="Agostinho Serrano">
         <attvalues>
@@ -492,9 +492,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="ULBRA"></attvalue>
         </attvalues>
-        <viz:size value="4.2352943"></viz:size>
-        <viz:position x="-182.0275" y="-120.54122"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="4.7647057"></viz:size>
+        <viz:position x="-218.93637" y="321.3197"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="Denisse Anaid Macías Miramontes" label="Denisse Anaid Macías Miramontes">
         <attvalues>
@@ -503,9 +503,9 @@
           <attvalue for="country" value="Mexico"></attvalue>
           <attvalue for="affiliation" value="Universidad Autónoma de Aguascalientes"></attvalue>
         </attvalues>
-        <viz:size value="8.705883"></viz:size>
-        <viz:position x="52.540596" y="-349.53113"></viz:position>
-        <viz:color r="255" g="117" b="38"></viz:color>
+        <viz:size value="12.294118"></viz:size>
+        <viz:position x="8.037123" y="642.7832"></viz:position>
+        <viz:color r="0" g="215" b="255"></viz:color>
       </node>
       <node id="Verônica Lima Pimentel de Sousa" label="Verônica Lima Pimentel de Sousa">
         <attvalues>
@@ -514,9 +514,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="Instituto Federal de Educação, Ciência e Tecnologia do Ceará"></attvalue>
         </attvalues>
-        <viz:size value="8.705883"></viz:size>
-        <viz:position x="-136.84544" y="89.5976"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="12.294118"></viz:size>
+        <viz:position x="319.85846" y="-336.41592"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="Graciela Enria" label="Graciela Enria">
         <attvalues>
@@ -525,9 +525,9 @@
           <attvalue for="country" value="Argentina"></attvalue>
           <attvalue for="affiliation" value="Universidad Nacional de Rosario"></attvalue>
         </attvalues>
-        <viz:size value="4.2352943"></viz:size>
-        <viz:position x="-45.76858" y="72.487625"></viz:position>
-        <viz:color r="0" g="218" b="255"></viz:color>
+        <viz:size value="4.7647057"></viz:size>
+        <viz:position x="83.48908" y="-53.807083"></viz:position>
+        <viz:color r="255" g="139" b="0"></viz:color>
       </node>
       <node id="Gustavo Schwarz" label="Gustavo Schwarz">
         <attvalues>
@@ -536,9 +536,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="Universidade do Vale do Rio dos Sinos (Unisinos)"></attvalue>
         </attvalues>
-        <viz:size value="8.705883"></viz:size>
-        <viz:position x="202.28107" y="-234.58672"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="12.294118"></viz:size>
+        <viz:position x="-546.97974" y="-63.77535"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="Rafael Morales Gamboa" label="Rafael Morales Gamboa">
         <attvalues>
@@ -547,9 +547,9 @@
           <attvalue for="country" value="Mexico"></attvalue>
           <attvalue for="affiliation" value="Universidad de Guadalajara"></attvalue>
         </attvalues>
-        <viz:size value="6.470588"></viz:size>
-        <viz:position x="117.023544" y="-111.94931"></viz:position>
-        <viz:color r="255" g="117" b="38"></viz:color>
+        <viz:size value="8.529411"></viz:size>
+        <viz:position x="146.54576" y="-147.3417"></viz:position>
+        <viz:color r="0" g="215" b="255"></viz:color>
       </node>
       <node id="Oscar Salazar" label="Oscar Salazar">
         <attvalues>
@@ -558,9 +558,9 @@
           <attvalue for="country" value="Colombia"></attvalue>
           <attvalue for="affiliation" value="Universidad Nacional de Colombia - Sede Medellín"></attvalue>
         </attvalues>
-        <viz:size value="6.470588"></viz:size>
-        <viz:position x="-119.3986" y="7.6476393"></viz:position>
-        <viz:color r="83" g="212" b="0"></viz:color>
+        <viz:size value="8.529411"></viz:size>
+        <viz:position x="-605.6637" y="99.27846"></viz:position>
+        <viz:color r="60" g="217" b="0"></viz:color>
       </node>
       <node id="Manuel Podetti" label="Manuel Podetti">
         <attvalues>
@@ -569,9 +569,9 @@
           <attvalue for="country" value="Uruguay"></attvalue>
           <attvalue for="affiliation" value="UDELAR"></attvalue>
         </attvalues>
-        <viz:size value="15.411765"></viz:size>
-        <viz:position x="-106.68601" y="-508.58313"></viz:position>
-        <viz:color r="223" g="193" b="173"></viz:color>
+        <viz:size value="23.588236"></viz:size>
+        <viz:position x="1066.76" y="215.92221"></viz:position>
+        <viz:color r="223" g="191" b="164"></viz:color>
       </node>
       <node id="Ivan Flores Vitelli" label="Ivan Flores Vitelli">
         <attvalues>
@@ -580,9 +580,9 @@
           <attvalue for="country" value="Venezuela"></attvalue>
           <attvalue for="affiliation" value="Universidad Central de Venezuela"></attvalue>
         </attvalues>
-        <viz:size value="6.470588"></viz:size>
-        <viz:position x="-64.04533" y="157.90715"></viz:position>
-        <viz:color r="215" g="171" b="0"></viz:color>
+        <viz:size value="8.529411"></viz:size>
+        <viz:position x="-251.36118" y="287.65195"></viz:position>
+        <viz:color r="0" g="104" b="116"></viz:color>
       </node>
       <node id="Andrés F. Pineda" label="Andrés F. Pineda">
         <attvalues>
@@ -591,9 +591,9 @@
           <attvalue for="country" value="Colombia"></attvalue>
           <attvalue for="affiliation" value="Universidad Nacional de Colombia - Sede Medellín"></attvalue>
         </attvalues>
-        <viz:size value="6.470588"></viz:size>
-        <viz:position x="238.44293" y="-47.447533"></viz:position>
-        <viz:color r="83" g="212" b="0"></viz:color>
+        <viz:size value="8.529411"></viz:size>
+        <viz:position x="-421.07132" y="71.164604"></viz:position>
+        <viz:color r="60" g="217" b="0"></viz:color>
       </node>
       <node id="Nubia Rosa Santana Dos Santos" label="Nubia Rosa Santana Dos Santos">
         <attvalues>
@@ -602,9 +602,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="UFF"></attvalue>
         </attvalues>
-        <viz:size value="13.176471"></viz:size>
-        <viz:position x="505.64075" y="36.754395"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="19.82353"></viz:size>
+        <viz:position x="-546.79816" y="-704.6885"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="João Carlos Gluz" label="João Carlos Gluz">
         <attvalues>
@@ -613,9 +613,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="Universidade do Vale do Rio dos Sinos (Unisinos)"></attvalue>
         </attvalues>
-        <viz:size value="8.705883"></viz:size>
-        <viz:position x="240.03122" y="-131.41788"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="12.294118"></viz:size>
+        <viz:position x="-584.6413" y="-36.26832"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="Julio Hurtado" label="Julio Hurtado">
         <attvalues>
@@ -624,9 +624,9 @@
           <attvalue for="country" value="Colombia"></attvalue>
           <attvalue for="affiliation" value="Universidad del Cauca"></attvalue>
         </attvalues>
-        <viz:size value="8.705883"></viz:size>
-        <viz:position x="211.95341" y="-290.15384"></viz:position>
-        <viz:color r="83" g="212" b="0"></viz:color>
+        <viz:size value="12.294118"></viz:size>
+        <viz:position x="-365.56982" y="437.89697"></viz:position>
+        <viz:color r="60" g="217" b="0"></viz:color>
       </node>
       <node id="Dalgis Ruiz Reyes" label="Dalgis Ruiz Reyes">
         <attvalues>
@@ -635,9 +635,9 @@
           <attvalue for="country" value="Cuba"></attvalue>
           <attvalue for="affiliation" value="Ministerio de Salud Pública"></attvalue>
         </attvalues>
-        <viz:size value="4.2352943"></viz:size>
-        <viz:position x="-79.85441" y="-4.252292"></viz:position>
-        <viz:color r="77" g="107" b="28"></viz:color>
+        <viz:size value="4.7647057"></viz:size>
+        <viz:position x="82.56486" y="-142.43185"></viz:position>
+        <viz:color r="134" g="67" b="107"></viz:color>
       </node>
       <node id="Teo Jové" label="Teo Jové">
         <attvalues>
@@ -646,9 +646,9 @@
           <attvalue for="country" value="Spain"></attvalue>
           <attvalue for="affiliation" value="Universitat de Girona"></attvalue>
         </attvalues>
-        <viz:size value="15.411765"></viz:size>
-        <viz:position x="-535.16455" y="19.63523"></viz:position>
-        <viz:color r="255" g="99" b="155"></viz:color>
+        <viz:size value="23.588236"></viz:size>
+        <viz:position x="-1036.5331" y="-243.823"></viz:position>
+        <viz:color r="110" g="172" b="255"></viz:color>
       </node>
       <node id="Elkin Vera Rey" label="Elkin Vera Rey">
         <attvalues>
@@ -657,9 +657,9 @@
           <attvalue for="country" value="Colombia"></attvalue>
           <attvalue for="affiliation" value="Universidad Distrital Francisco JosÃ© de Caldas"></attvalue>
         </attvalues>
-        <viz:size value="8.705883"></viz:size>
-        <viz:position x="-137.02885" y="-272.83475"></viz:position>
-        <viz:color r="83" g="212" b="0"></viz:color>
+        <viz:size value="12.294118"></viz:size>
+        <viz:position x="413.73807" y="-210.15009"></viz:position>
+        <viz:color r="60" g="217" b="0"></viz:color>
       </node>
       <node id="Valéria Raymundo" label="Valéria Raymundo">
         <attvalues>
@@ -668,9 +668,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="PUCRS"></attvalue>
         </attvalues>
-        <viz:size value="10.941176"></viz:size>
-        <viz:position x="-364.72867" y="-116.30663"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="16.058823"></viz:size>
+        <viz:position x="595.45135" y="-289.3623"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="Federico Bergero" label="Federico Bergero">
         <attvalues>
@@ -679,9 +679,9 @@
           <attvalue for="country" value="Argentina"></attvalue>
           <attvalue for="affiliation" value="FCEIA UNR"></attvalue>
         </attvalues>
-        <viz:size value="6.470588"></viz:size>
-        <viz:position x="-35.28419" y="134.66615"></viz:position>
-        <viz:color r="0" g="218" b="255"></viz:color>
+        <viz:size value="8.529411"></viz:size>
+        <viz:position x="-112.49233" y="154.4375"></viz:position>
+        <viz:color r="255" g="139" b="0"></viz:color>
       </node>
       <node id="Jocelyne Bocchese" label="Jocelyne Bocchese">
         <attvalues>
@@ -690,9 +690,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="PUCRS"></attvalue>
         </attvalues>
-        <viz:size value="10.941176"></viz:size>
-        <viz:position x="-397.3745" y="93.22981"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="16.058823"></viz:size>
+        <viz:position x="646.2676" y="-175.14986"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="Jhon Botero" label="Jhon Botero">
         <attvalues>
@@ -701,9 +701,9 @@
           <attvalue for="country" value="Colombia"></attvalue>
           <attvalue for="affiliation" value="Universidad Nacional de Colombia"></attvalue>
         </attvalues>
-        <viz:size value="4.2352943"></viz:size>
-        <viz:position x="-14.0574665" y="-93.28907"></viz:position>
-        <viz:color r="83" g="212" b="0"></viz:color>
+        <viz:size value="4.7647057"></viz:size>
+        <viz:position x="13.080442" y="-100.17594"></viz:position>
+        <viz:color r="60" g="217" b="0"></viz:color>
       </node>
       <node id="Andres Pampillon" label="Andres Pampillon">
         <attvalues>
@@ -712,9 +712,9 @@
           <attvalue for="country" value="Uruguay"></attvalue>
           <attvalue for="affiliation" value="Universidad de la República"></attvalue>
         </attvalues>
-        <viz:size value="26.588236"></viz:size>
-        <viz:position x="-179.37146" y="840.69775"></viz:position>
-        <viz:color r="223" g="193" b="173"></viz:color>
+        <viz:size value="42.411766"></viz:size>
+        <viz:position x="647.4215" y="-1245.12"></viz:position>
+        <viz:color r="223" g="191" b="164"></viz:color>
       </node>
       <node id="Cristina Schwarz" label="Cristina Schwarz">
         <attvalues>
@@ -723,9 +723,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="Universidade Feevale"></attvalue>
         </attvalues>
-        <viz:size value="8.705883"></viz:size>
-        <viz:position x="265.32623" y="89.794495"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="12.294118"></viz:size>
+        <viz:position x="-537.3132" y="-4.15433"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="Tiago Thompsen Primo" label="Tiago Thompsen Primo">
         <attvalues>
@@ -734,9 +734,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="Samsung"></attvalue>
         </attvalues>
-        <viz:size value="6.470588"></viz:size>
-        <viz:position x="-92.880165" y="-186.89839"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="8.529411"></viz:size>
+        <viz:position x="-201.94096" y="109.481445"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="Julian A Monsalve Pulido" label="Julian A Monsalve Pulido">
         <attvalues>
@@ -745,9 +745,9 @@
           <attvalue for="country" value="Colombia"></attvalue>
           <attvalue for="affiliation" value="Universidad Santo Tomás Seccional Tunja"></attvalue>
         </attvalues>
-        <viz:size value="10.941176"></viz:size>
-        <viz:position x="-338.70224" y="54.987637"></viz:position>
-        <viz:color r="83" g="212" b="0"></viz:color>
+        <viz:size value="16.058823"></viz:size>
+        <viz:position x="357.05133" y="-152.09015"></viz:position>
+        <viz:color r="60" g="217" b="0"></viz:color>
       </node>
       <node id="Alén Pérez Casas" label="Alén Pérez Casas">
         <attvalues>
@@ -756,9 +756,9 @@
           <attvalue for="country" value="Uruguay"></attvalue>
           <attvalue for="affiliation" value="DATA- CSE - Universidad de la República"></attvalue>
         </attvalues>
-        <viz:size value="15.411765"></viz:size>
-        <viz:position x="-487.8696" y="-264.5094"></viz:position>
-        <viz:color r="223" g="193" b="173"></viz:color>
+        <viz:size value="23.588236"></viz:size>
+        <viz:position x="947.6668" y="245.26782"></viz:position>
+        <viz:color r="223" g="191" b="164"></viz:color>
       </node>
       <node id="Alisson Rocha" label="Alisson Rocha">
         <attvalues>
@@ -767,9 +767,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="Universidade Federal do Rio Grande do Sul"></attvalue>
         </attvalues>
-        <viz:size value="17.64706"></viz:size>
-        <viz:position x="-411.535" y="441.06186"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="27.352942"></viz:size>
+        <viz:position x="-816.93835" y="892.12036"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="Zorayma Oronia" label="Zorayma Oronia">
         <attvalues>
@@ -778,9 +778,9 @@
           <attvalue for="country" value="Mexico"></attvalue>
           <attvalue for="affiliation" value="Universidad Autonoma de Nayarit"></attvalue>
         </attvalues>
-        <viz:size value="13.176471"></viz:size>
-        <viz:position x="435.17877" y="-407.42325"></viz:position>
-        <viz:color r="255" g="117" b="38"></viz:color>
+        <viz:size value="19.82353"></viz:size>
+        <viz:position x="-499.5992" y="659.4057"></viz:position>
+        <viz:color r="0" g="215" b="255"></viz:color>
       </node>
       <node id="Jeferson José Baqueta" label="Jeferson José Baqueta">
         <attvalues>
@@ -789,9 +789,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="Unioeste"></attvalue>
         </attvalues>
-        <viz:size value="13.176471"></viz:size>
-        <viz:position x="-334.54303" y="145.51988"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="19.82353"></viz:size>
+        <viz:position x="-836.4588" y="227.54602"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="Sergio Tobón" label="Sergio Tobón">
         <attvalues>
@@ -800,9 +800,9 @@
           <attvalue for="country" value="Mexico"></attvalue>
           <attvalue for="affiliation" value="Corporación Universitaria CIFE"></attvalue>
         </attvalues>
-        <viz:size value="6.470588"></viz:size>
-        <viz:position x="126.31199" y="-71.125694"></viz:position>
-        <viz:color r="255" g="117" b="38"></viz:color>
+        <viz:size value="8.529411"></viz:size>
+        <viz:position x="-290.941" y="-24.361275"></viz:position>
+        <viz:color r="0" g="215" b="255"></viz:color>
       </node>
       <node id="Adriana Rocío Santos Vesga" label="Adriana Rocío Santos Vesga">
         <attvalues>
@@ -811,9 +811,9 @@
           <attvalue for="country" value="Colombia"></attvalue>
           <attvalue for="affiliation" value="Universidad Pedagógica y Tecnológica de Colombia"></attvalue>
         </attvalues>
-        <viz:size value="10.941176"></viz:size>
-        <viz:position x="-9.7416115" y="-331.70987"></viz:position>
-        <viz:color r="83" g="212" b="0"></viz:color>
+        <viz:size value="16.058823"></viz:size>
+        <viz:position x="-59.435955" y="-746.4048"></viz:position>
+        <viz:color r="60" g="217" b="0"></viz:color>
       </node>
       <node id="Ariel Adolfo Rodríguez Hernández" label="Ariel Adolfo Rodríguez Hernández">
         <attvalues>
@@ -822,9 +822,9 @@
           <attvalue for="country" value="Colombia"></attvalue>
           <attvalue for="affiliation" value="Universidad Pedagógica y Tecnológica de Colombia"></attvalue>
         </attvalues>
-        <viz:size value="10.941176"></viz:size>
-        <viz:position x="311.1729" y="26.235504"></viz:position>
-        <viz:color r="83" g="212" b="0"></viz:color>
+        <viz:size value="16.058823"></viz:size>
+        <viz:position x="-142.66104" y="-736.3519"></viz:position>
+        <viz:color r="60" g="217" b="0"></viz:color>
       </node>
       <node id="Liliana Passerino" label="Liliana Passerino">
         <attvalues>
@@ -833,9 +833,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="Universidade Federal do Rio Grande do Sul"></attvalue>
         </attvalues>
-        <viz:size value="8.705883"></viz:size>
-        <viz:position x="-282.0792" y="-126.36866"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="12.294118"></viz:size>
+        <viz:position x="222.6451" y="308.46442"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="Rolando Hernández Lazo" label="Rolando Hernández Lazo">
         <attvalues>
@@ -844,9 +844,9 @@
           <attvalue for="country" value="Colombia"></attvalue>
           <attvalue for="affiliation" value="Universidad Popular del Cesar"></attvalue>
         </attvalues>
-        <viz:size value="8.705883"></viz:size>
-        <viz:position x="-211.97844" y="-59.17444"></viz:position>
-        <viz:color r="83" g="212" b="0"></viz:color>
+        <viz:size value="12.294118"></viz:size>
+        <viz:position x="110.823494" y="-217.13347"></viz:position>
+        <viz:color r="60" g="217" b="0"></viz:color>
       </node>
       <node id="Marilene Müller" label="Marilene Müller">
         <attvalues>
@@ -855,9 +855,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="PUCRS"></attvalue>
         </attvalues>
-        <viz:size value="8.705883"></viz:size>
-        <viz:position x="29.325823" y="-264.64"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="12.294118"></viz:size>
+        <viz:position x="501.42108" y="-101.05408"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="Carlene Hooper Simpson" label="Carlene Hooper Simpson">
         <attvalues>
@@ -866,9 +866,9 @@
           <attvalue for="country" value="Costa Rica"></attvalue>
           <attvalue for="affiliation" value="UNED"></attvalue>
         </attvalues>
-        <viz:size value="8.705883"></viz:size>
-        <viz:position x="361.38345" y="-91.23229"></viz:position>
-        <viz:color r="84" g="180" b="255"></viz:color>
+        <viz:size value="12.294118"></viz:size>
+        <viz:position x="-281.87915" y="-406.70065"></viz:position>
+        <viz:color r="255" g="102" b="177"></viz:color>
       </node>
       <node id="Deicy Lorena Nonsocua Hurtado" label="Deicy Lorena Nonsocua Hurtado">
         <attvalues>
@@ -877,9 +877,9 @@
           <attvalue for="country" value="Colombia"></attvalue>
           <attvalue for="affiliation" value="Universidad Santo Tomás Seccional Tunja"></attvalue>
         </attvalues>
-        <viz:size value="6.470588"></viz:size>
-        <viz:position x="-189.20334" y="151.9974"></viz:position>
-        <viz:color r="83" g="212" b="0"></viz:color>
+        <viz:size value="8.529411"></viz:size>
+        <viz:position x="224.30893" y="-185.15395"></viz:position>
+        <viz:color r="60" g="217" b="0"></viz:color>
       </node>
       <node id="Lenniet Coello" label="Lenniet Coello">
         <attvalues>
@@ -888,9 +888,9 @@
           <attvalue for="country" value="Cuba"></attvalue>
           <attvalue for="affiliation" value="Universidad"></attvalue>
         </attvalues>
-        <viz:size value="4.2352943"></viz:size>
-        <viz:position x="-99.928276" y="33.366596"></viz:position>
-        <viz:color r="77" g="107" b="28"></viz:color>
+        <viz:size value="4.7647057"></viz:size>
+        <viz:position x="11.372936" y="-59.885536"></viz:position>
+        <viz:color r="134" g="67" b="107"></viz:color>
       </node>
       <node id="Gláucia Gonzaga" label="Gláucia Gonzaga">
         <attvalues>
@@ -899,9 +899,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="UFF"></attvalue>
         </attvalues>
-        <viz:size value="13.176471"></viz:size>
-        <viz:position x="496.85385" y="192.81065"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="19.82353"></viz:size>
+        <viz:position x="-517.06165" y="-826.0236"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="Felix Restrepo" label="Felix Restrepo">
         <attvalues>
@@ -910,9 +910,9 @@
           <attvalue for="country" value="Colombia"></attvalue>
           <attvalue for="affiliation" value="Fundación Universitaria Católica del Norte"></attvalue>
         </attvalues>
-        <viz:size value="2.0"></viz:size>
-        <viz:position x="-1.3737291" y="-19.180593"></viz:position>
-        <viz:color r="83" g="212" b="0"></viz:color>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="14.531094" y="9.853082"></viz:position>
+        <viz:color r="60" g="217" b="0"></viz:color>
       </node>
       <node id="Cesar Garita" label="Cesar Garita">
         <attvalues>
@@ -921,9 +921,9 @@
           <attvalue for="country" value="Costa Rica"></attvalue>
           <attvalue for="affiliation" value="Instituto Tecnológico de Costa Rica"></attvalue>
         </attvalues>
-        <viz:size value="10.941176"></viz:size>
-        <viz:position x="336.32803" y="234.63457"></viz:position>
-        <viz:color r="84" g="180" b="255"></viz:color>
+        <viz:size value="16.058823"></viz:size>
+        <viz:position x="-163.15967" y="-311.65338"></viz:position>
+        <viz:color r="255" g="102" b="177"></viz:color>
       </node>
       <node id="Thaísa Müller" label="Thaísa Müller">
         <attvalues>
@@ -932,9 +932,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="PUCRS"></attvalue>
         </attvalues>
-        <viz:size value="8.705883"></viz:size>
-        <viz:position x="-77.24218" y="-298.33658"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="12.294118"></viz:size>
+        <viz:position x="535.77734" y="-55.181034"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="Liliam Palomeque" label="Liliam Palomeque">
         <attvalues>
@@ -943,9 +943,9 @@
           <attvalue for="country" value="Colombia"></attvalue>
           <attvalue for="affiliation" value="Universidad Nacional de Colombia"></attvalue>
         </attvalues>
-        <viz:size value="4.2352943"></viz:size>
-        <viz:position x="61.054604" y="-73.053894"></viz:position>
-        <viz:color r="83" g="212" b="0"></viz:color>
+        <viz:size value="4.7647057"></viz:size>
+        <viz:position x="-9.3931465" y="-118.24419"></viz:position>
+        <viz:color r="60" g="217" b="0"></viz:color>
       </node>
       <node id="Angela Patricia Paz Guañarita" label="Angela Patricia Paz Guañarita">
         <attvalues>
@@ -954,9 +954,9 @@
           <attvalue for="country" value="Colombia"></attvalue>
           <attvalue for="affiliation" value="Pontificia Universidad Javeriana de Cali"></attvalue>
         </attvalues>
-        <viz:size value="6.470588"></viz:size>
-        <viz:position x="-146.73634" y="-34.865833"></viz:position>
-        <viz:color r="83" g="212" b="0"></viz:color>
+        <viz:size value="8.529411"></viz:size>
+        <viz:position x="255.31767" y="37.024387"></viz:position>
+        <viz:color r="60" g="217" b="0"></viz:color>
       </node>
       <node id="Ana Paula Scariot" label="Ana Paula Scariot">
         <attvalues>
@@ -965,9 +965,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="Instituto Federal do Rio Grande do Sul"></attvalue>
         </attvalues>
-        <viz:size value="8.705883"></viz:size>
-        <viz:position x="347.8686" y="-180.96394"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="12.294118"></viz:size>
+        <viz:position x="682.6685" y="-339.8297"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="Francisco Ornelas" label="Francisco Ornelas">
         <attvalues>
@@ -976,9 +976,9 @@
           <attvalue for="country" value="Mexico"></attvalue>
           <attvalue for="affiliation" value="Universidad Autonoma de Aguascalientes"></attvalue>
         </attvalues>
-        <viz:size value="13.176471"></viz:size>
-        <viz:position x="141.37192" y="-538.59064"></viz:position>
-        <viz:color r="255" g="117" b="38"></viz:color>
+        <viz:size value="19.82353"></viz:size>
+        <viz:position x="-444.12085" y="624.13336"></viz:position>
+        <viz:color r="0" g="215" b="255"></viz:color>
       </node>
       <node id="Concha Batanero" label="Concha Batanero">
         <attvalues>
@@ -987,9 +987,9 @@
           <attvalue for="country" value="Spain"></attvalue>
           <attvalue for="affiliation" value="Universidad de Alcalá"></attvalue>
         </attvalues>
-        <viz:size value="6.470588"></viz:size>
-        <viz:position x="-236.58263" y="58.414715"></viz:position>
-        <viz:color r="255" g="99" b="155"></viz:color>
+        <viz:size value="8.529411"></viz:size>
+        <viz:position x="63.642727" y="224.97275"></viz:position>
+        <viz:color r="110" g="172" b="255"></viz:color>
       </node>
       <node id="Salvador Sanchez Alonso" label="Salvador Sanchez Alonso">
         <attvalues>
@@ -998,9 +998,9 @@
           <attvalue for="country" value="Spain"></attvalue>
           <attvalue for="affiliation" value="UAH"></attvalue>
         </attvalues>
-        <viz:size value="8.705883"></viz:size>
-        <viz:position x="59.360607" y="-302.35013"></viz:position>
-        <viz:color r="255" g="99" b="155"></viz:color>
+        <viz:size value="12.294118"></viz:size>
+        <viz:position x="-144.94284" y="-449.37064"></viz:position>
+        <viz:color r="110" g="172" b="255"></viz:color>
       </node>
       <node id="Carreño Mónica" label="Carreño Mónica">
         <attvalues>
@@ -1009,9 +1009,9 @@
           <attvalue for="country" value="Mexico"></attvalue>
           <attvalue for="affiliation" value="Universidad Autónoma de Baja California Sur"></attvalue>
         </attvalues>
-        <viz:size value="10.941176"></viz:size>
-        <viz:position x="-4.9430156" y="-417.09924"></viz:position>
-        <viz:color r="255" g="117" b="38"></viz:color>
+        <viz:size value="16.058823"></viz:size>
+        <viz:position x="68.00911" y="-697.3315"></viz:position>
+        <viz:color r="0" g="215" b="255"></viz:color>
       </node>
       <node id="Tel Amiel" label="Tel Amiel">
         <attvalues>
@@ -1020,9 +1020,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="UNICAMP"></attvalue>
         </attvalues>
-        <viz:size value="6.470588"></viz:size>
-        <viz:position x="-164.64276" y="51.70159"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="8.529411"></viz:size>
+        <viz:position x="-2.1021843" y="-215.03082"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="Julio Cesar Ponce Gallegos" label="Julio Cesar Ponce Gallegos">
         <attvalues>
@@ -1031,9 +1031,9 @@
           <attvalue for="country" value="Mexico"></attvalue>
           <attvalue for="affiliation" value="UAA"></attvalue>
         </attvalues>
-        <viz:size value="6.470588"></viz:size>
-        <viz:position x="99.135124" y="218.64218"></viz:position>
-        <viz:color r="255" g="117" b="38"></viz:color>
+        <viz:size value="8.529411"></viz:size>
+        <viz:position x="-263.70865" y="334.047"></viz:position>
+        <viz:color r="0" g="215" b="255"></viz:color>
       </node>
       <node id="Silvana Aciar" label="Silvana Aciar">
         <attvalues>
@@ -1042,9 +1042,9 @@
           <attvalue for="country" value="Argentina"></attvalue>
           <attvalue for="affiliation" value="Instituto de Informática, Universidad Nacional de San Juan, Argentina"></attvalue>
         </attvalues>
-        <viz:size value="6.470588"></viz:size>
-        <viz:position x="-244.71245" y="-87.95013"></viz:position>
-        <viz:color r="0" g="218" b="255"></viz:color>
+        <viz:size value="8.529411"></viz:size>
+        <viz:position x="-428.35468" y="-137.74387"></viz:position>
+        <viz:color r="255" g="139" b="0"></viz:color>
       </node>
       <node id="Francisco Javier Díaz" label="Francisco Javier Díaz">
         <attvalues>
@@ -1053,9 +1053,9 @@
           <attvalue for="country" value="Argentina"></attvalue>
           <attvalue for="affiliation" value="LINTI - Facultad de Informática - UNLP"></attvalue>
         </attvalues>
-        <viz:size value="13.176471"></viz:size>
-        <viz:position x="-359.45322" y="270.29208"></viz:position>
-        <viz:color r="0" g="218" b="255"></viz:color>
+        <viz:size value="19.82353"></viz:size>
+        <viz:position x="187.53606" y="707.0282"></viz:position>
+        <viz:color r="255" g="139" b="0"></viz:color>
       </node>
       <node id="Enayat Rajabi" label="Enayat Rajabi">
         <attvalues>
@@ -1064,9 +1064,9 @@
           <attvalue for="country" value="Spain"></attvalue>
           <attvalue for="affiliation" value="UAH"></attvalue>
         </attvalues>
-        <viz:size value="8.705883"></viz:size>
-        <viz:position x="187.52103" y="-118.312035"></viz:position>
-        <viz:color r="255" g="99" b="155"></viz:color>
+        <viz:size value="12.294118"></viz:size>
+        <viz:position x="-94.457054" y="-450.62012"></viz:position>
+        <viz:color r="110" g="172" b="255"></viz:color>
       </node>
       <node id="Liliam Alexandra Palomeque Forero" label="Liliam Alexandra Palomeque Forero">
         <attvalues>
@@ -1075,9 +1075,9 @@
           <attvalue for="country" value="Colombia"></attvalue>
           <attvalue for="affiliation" value="Universidad Nacional de Colombia"></attvalue>
         </attvalues>
-        <viz:size value="4.2352943"></viz:size>
-        <viz:position x="-21.036997" y="-35.303097"></viz:position>
-        <viz:color r="83" g="212" b="0"></viz:color>
+        <viz:size value="4.7647057"></viz:size>
+        <viz:position x="-55.198162" y="-121.30042"></viz:position>
+        <viz:color r="60" g="217" b="0"></viz:color>
       </node>
       <node id="Jéfferson Sooma" label="Jéfferson Sooma">
         <attvalues>
@@ -1086,9 +1086,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="Instituto de Informática - UFRGS"></attvalue>
         </attvalues>
-        <viz:size value="10.941176"></viz:size>
-        <viz:position x="252.58035" y="162.26926"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="16.058823"></viz:size>
+        <viz:position x="-24.825266" y="472.63132"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="Yahaira Gamboa Villalobos" label="Yahaira Gamboa Villalobos">
         <attvalues>
@@ -1097,9 +1097,9 @@
           <attvalue for="country" value="Costa Rica"></attvalue>
           <attvalue for="affiliation" value="UNED"></attvalue>
         </attvalues>
-        <viz:size value="10.941176"></viz:size>
-        <viz:position x="351.05676" y="-43.74466"></viz:position>
-        <viz:color r="84" g="180" b="255"></viz:color>
+        <viz:size value="16.058823"></viz:size>
+        <viz:position x="-374.09314" y="-484.3104"></viz:position>
+        <viz:color r="255" g="102" b="177"></viz:color>
       </node>
       <node id="Manuel Caetano" label="Manuel Caetano">
         <attvalues>
@@ -1108,9 +1108,9 @@
           <attvalue for="country" value="Venezuela"></attvalue>
           <attvalue for="affiliation" value="Universidad Central de Venezuela"></attvalue>
         </attvalues>
-        <viz:size value="8.705883"></viz:size>
-        <viz:position x="59.604435" y="320.53476"></viz:position>
-        <viz:color r="215" g="171" b="0"></viz:color>
+        <viz:size value="12.294118"></viz:size>
+        <viz:position x="442.42584" y="58.903896"></viz:position>
+        <viz:color r="0" g="104" b="116"></viz:color>
       </node>
       <node id="Lisandra Docampo" label="Lisandra Docampo">
         <attvalues>
@@ -1119,9 +1119,9 @@
           <attvalue for="country" value="Cuba"></attvalue>
           <attvalue for="affiliation" value="Universidad"></attvalue>
         </attvalues>
-        <viz:size value="4.2352943"></viz:size>
-        <viz:position x="-45.328358" y="12.281488"></viz:position>
-        <viz:color r="77" g="107" b="28"></viz:color>
+        <viz:size value="4.7647057"></viz:size>
+        <viz:position x="-18.685207" y="-61.67576"></viz:position>
+        <viz:color r="134" g="67" b="107"></viz:color>
       </node>
       <node id="Graciela Begueri" label="Graciela Begueri">
         <attvalues>
@@ -1130,9 +1130,9 @@
           <attvalue for="country" value="Argentina"></attvalue>
           <attvalue for="affiliation" value="Universidad Nacional de San Juan"></attvalue>
         </attvalues>
-        <viz:size value="6.470588"></viz:size>
-        <viz:position x="84.76446" y="-224.04367"></viz:position>
-        <viz:color r="0" g="218" b="255"></viz:color>
+        <viz:size value="8.529411"></viz:size>
+        <viz:position x="-315.40237" y="121.01021"></viz:position>
+        <viz:color r="255" g="139" b="0"></viz:color>
       </node>
       <node id="Alex Humar" label="Alex Humar">
         <attvalues>
@@ -1141,9 +1141,9 @@
           <attvalue for="country" value="Argentina"></attvalue>
           <attvalue for="affiliation" value="LINTI - Facultad de Informática - UNLP"></attvalue>
         </attvalues>
-        <viz:size value="13.176471"></viz:size>
-        <viz:position x="-244.46616" y="454.39917"></viz:position>
-        <viz:color r="0" g="218" b="255"></viz:color>
+        <viz:size value="19.82353"></viz:size>
+        <viz:position x="152.3978" y="758.46155"></viz:position>
+        <viz:color r="255" g="139" b="0"></viz:color>
       </node>
       <node id="Margarita Sotomayor" label="Margarita Sotomayor">
         <attvalues>
@@ -1152,9 +1152,9 @@
           <attvalue for="country" value="Chile"></attvalue>
           <attvalue for="affiliation" value="Universidad de Tarapacá"></attvalue>
         </attvalues>
-        <viz:size value="4.2352943"></viz:size>
-        <viz:position x="-72.461105" y="25.503962"></viz:position>
-        <viz:color r="0" g="100" b="112"></viz:color>
+        <viz:size value="4.7647057"></viz:size>
+        <viz:position x="42.073414" y="103.90783"></viz:position>
+        <viz:color r="185" g="178" b="0"></viz:color>
       </node>
       <node id="Marlise Santos" label="Marlise Santos">
         <attvalues>
@@ -1163,9 +1163,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="UFRGS"></attvalue>
         </attvalues>
-        <viz:size value="6.470588"></viz:size>
-        <viz:position x="-186.19676" y="-204.06607"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="8.529411"></viz:size>
+        <viz:position x="-293.0026" y="387.99738"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="Claudia Deco" label="Claudia Deco">
         <attvalues>
@@ -1174,9 +1174,9 @@
           <attvalue for="country" value="Argentina"></attvalue>
           <attvalue for="affiliation" value="Universidad Nacional de Rosario; Pontificia Universidad Católica Argentina"></attvalue>
         </attvalues>
-        <viz:size value="8.705883"></viz:size>
-        <viz:position x="98.04477" y="347.35492"></viz:position>
-        <viz:color r="0" g="218" b="255"></viz:color>
+        <viz:size value="12.294118"></viz:size>
+        <viz:position x="379.2635" y="228.06384"></viz:position>
+        <viz:color r="255" g="139" b="0"></viz:color>
       </node>
       <node id="Esteban Ruiz" label="Esteban Ruiz">
         <attvalues>
@@ -1185,9 +1185,9 @@
           <attvalue for="country" value="Argentina"></attvalue>
           <attvalue for="affiliation" value="FCEIA UNR"></attvalue>
         </attvalues>
-        <viz:size value="6.470588"></viz:size>
-        <viz:position x="-112.81131" y="-34.75795"></viz:position>
-        <viz:color r="0" g="218" b="255"></viz:color>
+        <viz:size value="8.529411"></viz:size>
+        <viz:position x="-134.26517" y="125.43791"></viz:position>
+        <viz:color r="255" g="139" b="0"></viz:color>
       </node>
       <node id="Charles Giovane De Salles" label="Charles Giovane De Salles">
         <attvalues>
@@ -1196,9 +1196,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="Western Paraná State University"></attvalue>
         </attvalues>
-        <viz:size value="13.176471"></viz:size>
-        <viz:position x="189.1163" y="-501.2165"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="19.82353"></viz:size>
+        <viz:position x="-837.7164" y="299.07678"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="Franger Yánez" label="Franger Yánez">
         <attvalues>
@@ -1207,9 +1207,9 @@
           <attvalue for="country" value="Venezuela"></attvalue>
           <attvalue for="affiliation" value="Universidad Central de Venezuela"></attvalue>
         </attvalues>
-        <viz:size value="8.705883"></viz:size>
-        <viz:position x="43.27268" y="398.45175"></viz:position>
-        <viz:color r="215" g="171" b="0"></viz:color>
+        <viz:size value="12.294118"></viz:size>
+        <viz:position x="410.951" y="135.7334"></viz:position>
+        <viz:color r="0" g="104" b="116"></viz:color>
       </node>
       <node id="Marco Aurélio Schunke" label="Marco Aurélio Schunke">
         <attvalues>
@@ -1218,9 +1218,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="Instituto de Informática - UFRGS"></attvalue>
         </attvalues>
-        <viz:size value="10.941176"></viz:size>
-        <viz:position x="209.55333" y="352.6273"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="16.058823"></viz:size>
+        <viz:position x="-106.99148" y="523.5002"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="Yosly Caridad Hernández Bieliukas" label="Yosly Caridad Hernández Bieliukas">
         <attvalues>
@@ -1229,9 +1229,9 @@
           <attvalue for="country" value="Venezuela"></attvalue>
           <attvalue for="affiliation" value="Universidad Central de Venezuela"></attvalue>
         </attvalues>
-        <viz:size value="22.11765"></viz:size>
-        <viz:position x="-396.54984" y="-674.0978"></viz:position>
-        <viz:color r="215" g="171" b="0"></viz:color>
+        <viz:size value="34.882355"></viz:size>
+        <viz:position x="9.366249" y="954.42175"></viz:position>
+        <viz:color r="0" g="104" b="116"></viz:color>
       </node>
       <node id="Yosly Hernandez Bieliukas" label="Yosly Hernandez Bieliukas">
         <attvalues>
@@ -1240,9 +1240,9 @@
           <attvalue for="country" value="Venezuela"></attvalue>
           <attvalue for="affiliation" value="Universidad Central de Venezuela"></attvalue>
         </attvalues>
-        <viz:size value="10.941176"></viz:size>
-        <viz:position x="101.725395" y="443.23447"></viz:position>
-        <viz:color r="215" g="171" b="0"></viz:color>
+        <viz:size value="16.058823"></viz:size>
+        <viz:position x="469.02502" y="131.94914"></viz:position>
+        <viz:color r="0" g="104" b="116"></viz:color>
       </node>
       <node id="María Isabel Ramírez" label="María Isabel Ramírez">
         <attvalues>
@@ -1251,9 +1251,9 @@
           <attvalue for="country" value="Colombia"></attvalue>
           <attvalue for="affiliation" value="Pontificia Universidad Javeriana de Cali"></attvalue>
         </attvalues>
-        <viz:size value="6.470588"></viz:size>
-        <viz:position x="-94.6091" y="-101.3984"></viz:position>
-        <viz:color r="83" g="212" b="0"></viz:color>
+        <viz:size value="8.529411"></viz:size>
+        <viz:position x="297.13483" y="17.176556"></viz:position>
+        <viz:color r="60" g="217" b="0"></viz:color>
       </node>
       <node id="María Isabel Vásquez Rojas" label="María Isabel Vásquez Rojas">
         <attvalues>
@@ -1262,9 +1262,9 @@
           <attvalue for="country" value="Chile"></attvalue>
           <attvalue for="affiliation" value="Universidad de Tarapacá"></attvalue>
         </attvalues>
-        <viz:size value="4.2352943"></viz:size>
-        <viz:position x="-49.947216" y="43.566017"></viz:position>
-        <viz:color r="0" g="100" b="112"></viz:color>
+        <viz:size value="4.7647057"></viz:size>
+        <viz:position x="61.39459" y="83.07969"></viz:position>
+        <viz:color r="185" g="178" b="0"></viz:color>
       </node>
       <node id="Néstor Darío Duque Méndez" label="Néstor Darío Duque Méndez">
         <attvalues>
@@ -1273,9 +1273,9 @@
           <attvalue for="country" value="Colombia"></attvalue>
           <attvalue for="affiliation" value="Universidad Nacional de Colombia - Sede Manizales"></attvalue>
         </attvalues>
-        <viz:size value="40.0"></viz:size>
-        <viz:position x="-388.20102" y="885.26526"></viz:position>
-        <viz:color r="83" g="212" b="0"></viz:color>
+        <viz:size value="65.0"></viz:size>
+        <viz:position x="-1168.4851" y="6.199735"></viz:position>
+        <viz:color r="60" g="217" b="0"></viz:color>
       </node>
       <node id="Mario A. Chacón-Rivas" label="Mario A. Chacón-Rivas">
         <attvalues>
@@ -1284,9 +1284,9 @@
           <attvalue for="country" value="Costa Rica"></attvalue>
           <attvalue for="affiliation" value="Instituto Tecnológico de Costa Rica"></attvalue>
         </attvalues>
-        <viz:size value="6.470588"></viz:size>
-        <viz:position x="202.81711" y="104.97841"></viz:position>
-        <viz:color r="84" g="180" b="255"></viz:color>
+        <viz:size value="8.529411"></viz:size>
+        <viz:position x="-164.49326" y="-221.08676"></viz:position>
+        <viz:color r="255" g="102" b="177"></viz:color>
       </node>
       <node id="Fábio Laguna" label="Fábio Laguna">
         <attvalues>
@@ -1295,9 +1295,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="Universidade Presbiteriana Mackenzie"></attvalue>
         </attvalues>
-        <viz:size value="6.470588"></viz:size>
-        <viz:position x="40.982857" y="45.594044"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="8.529411"></viz:size>
+        <viz:position x="-137.56137" y="210.23094"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="Francisco Ibañez" label="Francisco Ibañez">
         <attvalues>
@@ -1306,9 +1306,9 @@
           <attvalue for="country" value="Argentina"></attvalue>
           <attvalue for="affiliation" value="Universidad Nacional de San Juan"></attvalue>
         </attvalues>
-        <viz:size value="8.705883"></viz:size>
-        <viz:position x="21.408932" y="354.8328"></viz:position>
-        <viz:color r="0" g="218" b="255"></viz:color>
+        <viz:size value="12.294118"></viz:size>
+        <viz:position x="128.06677" y="-374.5824"></viz:position>
+        <viz:color r="255" g="139" b="0"></viz:color>
       </node>
       <node id="Josefina Siguencia" label="Josefina Siguencia">
         <attvalues>
@@ -1317,9 +1317,9 @@
           <attvalue for="country" value="Ecuador"></attvalue>
           <attvalue for="affiliation" value="Cedia"></attvalue>
         </attvalues>
-        <viz:size value="6.470588"></viz:size>
-        <viz:position x="-55.734474" y="-167.05858"></viz:position>
-        <viz:color r="140" g="80" b="136"></viz:color>
+        <viz:size value="8.529411"></viz:size>
+        <viz:position x="138.96237" y="190.9077"></viz:position>
+        <viz:color r="0" g="211" b="194"></viz:color>
       </node>
       <node id="Oscar Mauricio Salazar Ospina" label="Oscar Mauricio Salazar Ospina">
         <attvalues>
@@ -1328,9 +1328,9 @@
           <attvalue for="country" value="Colombia"></attvalue>
           <attvalue for="affiliation" value="Universidad Nacional de Colombia - Sede Medellín"></attvalue>
         </attvalues>
-        <viz:size value="10.941176"></viz:size>
-        <viz:position x="-229.24147" y="-233.5239"></viz:position>
-        <viz:color r="83" g="212" b="0"></viz:color>
+        <viz:size value="16.058823"></viz:size>
+        <viz:position x="-792.39105" y="327.8917"></viz:position>
+        <viz:color r="60" g="217" b="0"></viz:color>
       </node>
       <node id="Nathalie Aquino" label="Nathalie Aquino">
         <attvalues>
@@ -1339,9 +1339,9 @@
           <attvalue for="country" value="Paraguay"></attvalue>
           <attvalue for="affiliation" value="Facultad Politecnica"></attvalue>
         </attvalues>
-        <viz:size value="8.705883"></viz:size>
-        <viz:position x="128.11757" y="6.8668776"></viz:position>
-        <viz:color r="155" g="70" b="44"></viz:color>
+        <viz:size value="12.294118"></viz:size>
+        <viz:position x="600.8589" y="447.7533"></viz:position>
+        <viz:color r="106" g="79" b="19"></viz:color>
       </node>
       <node id="Silvana Silveira" label="Silvana Silveira">
         <attvalues>
@@ -1350,9 +1350,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="PUCRS"></attvalue>
         </attvalues>
-        <viz:size value="10.941176"></viz:size>
-        <viz:position x="-386.5602" y="-48.056324"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="16.058823"></viz:size>
+        <viz:position x="594.689" y="-217.5155"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="Alvaro Portillo" label="Alvaro Portillo">
         <attvalues>
@@ -1361,9 +1361,9 @@
           <attvalue for="country" value="Uruguay"></attvalue>
           <attvalue for="affiliation" value="Universidad de la República"></attvalue>
         </attvalues>
-        <viz:size value="26.588236"></viz:size>
-        <viz:position x="-803.5155" y="462.21793"></viz:position>
-        <viz:color r="223" g="193" b="173"></viz:color>
+        <viz:size value="42.411766"></viz:size>
+        <viz:position x="375.98032" y="-1256.3241"></viz:position>
+        <viz:color r="223" g="191" b="164"></viz:color>
       </node>
       <node id="Jose A. Riveros" label="Jose A. Riveros">
         <attvalues>
@@ -1372,9 +1372,9 @@
           <attvalue for="country" value="Paraguay"></attvalue>
           <attvalue for="affiliation" value="Facultad Politecnica"></attvalue>
         </attvalues>
-        <viz:size value="8.705883"></viz:size>
-        <viz:position x="-232.3905" y="-132.84662"></viz:position>
-        <viz:color r="155" g="70" b="44"></viz:color>
+        <viz:size value="12.294118"></viz:size>
+        <viz:position x="632.0607" y="411.86893"></viz:position>
+        <viz:color r="106" g="79" b="19"></viz:color>
       </node>
       <node id="Ruth Molina Vásquez" label="Ruth Molina Vásquez">
         <attvalues>
@@ -1383,9 +1383,9 @@
           <attvalue for="country" value="Colombia"></attvalue>
           <attvalue for="affiliation" value="Universidad Distrital Francisco JosÃ© de Caldas"></attvalue>
         </attvalues>
-        <viz:size value="8.705883"></viz:size>
-        <viz:position x="-89.12949" y="-248.6869"></viz:position>
-        <viz:color r="83" g="212" b="0"></viz:color>
+        <viz:size value="12.294118"></viz:size>
+        <viz:position x="366.4657" y="-244.0288"></viz:position>
+        <viz:color r="60" g="217" b="0"></viz:color>
       </node>
       <node id="Ruben Peredo" label="Ruben Peredo">
         <attvalues>
@@ -1394,9 +1394,9 @@
           <attvalue for="country" value="Mexico"></attvalue>
           <attvalue for="affiliation" value="ESCOM-IPN"></attvalue>
         </attvalues>
-        <viz:size value="4.2352943"></viz:size>
-        <viz:position x="-78.11159" y="-33.54495"></viz:position>
-        <viz:color r="255" g="117" b="38"></viz:color>
+        <viz:size value="4.7647057"></viz:size>
+        <viz:position x="-107.209465" y="-57.78567"></viz:position>
+        <viz:color r="0" g="215" b="255"></viz:color>
       </node>
       <node id="Ilana Souza-Concilio" label="Ilana Souza-Concilio">
         <attvalues>
@@ -1405,9 +1405,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="Universidade Presbiteriana Mackenzie"></attvalue>
         </attvalues>
-        <viz:size value="8.705883"></viz:size>
-        <viz:position x="62.28202" y="-187.82092"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="12.294118"></viz:size>
+        <viz:position x="-152.37086" y="262.1285"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="Edson Pimentel" label="Edson Pimentel">
         <attvalues>
@@ -1416,9 +1416,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="UFABC"></attvalue>
         </attvalues>
-        <viz:size value="6.470588"></viz:size>
-        <viz:position x="70.21222" y="152.42783"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="8.529411"></viz:size>
+        <viz:position x="150.68864" y="46.4509"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="Jacqueline T. Solis Cespedes" label="Jacqueline T. Solis Cespedes">
         <attvalues>
@@ -1427,9 +1427,9 @@
           <attvalue for="country" value="Costa Rica"></attvalue>
           <attvalue for="affiliation" value="Instituto Tecnológico de Costa Rica"></attvalue>
         </attvalues>
-        <viz:size value="6.470588"></viz:size>
-        <viz:position x="174.68452" y="30.26752"></viz:position>
-        <viz:color r="84" g="180" b="255"></viz:color>
+        <viz:size value="8.529411"></viz:size>
+        <viz:position x="-130.96729" y="-234.50002"></viz:position>
+        <viz:color r="255" g="102" b="177"></viz:color>
       </node>
       <node id="Jaime Muñoz-Arteaga" label="Jaime Muñoz-Arteaga">
         <attvalues>
@@ -1438,9 +1438,9 @@
           <attvalue for="country" value="Mexico"></attvalue>
           <attvalue for="affiliation" value="Universidad Autónoma de Aguascalientes"></attvalue>
         </attvalues>
-        <viz:size value="40.0"></viz:size>
-        <viz:position x="223.5328" y="-980.96674"></viz:position>
-        <viz:color r="255" g="117" b="38"></viz:color>
+        <viz:size value="65.0"></viz:size>
+        <viz:position x="-317.1134" y="1033.3562"></viz:position>
+        <viz:color r="0" g="215" b="255"></viz:color>
       </node>
       <node id="María Elena Meda" label="María Elena Meda">
         <attvalues>
@@ -1449,9 +1449,9 @@
           <attvalue for="country" value="Mexico"></attvalue>
           <attvalue for="affiliation" value="Universidad de Guadalajara"></attvalue>
         </attvalues>
-        <viz:size value="6.470588"></viz:size>
-        <viz:position x="-83.46477" y="-67.975136"></viz:position>
-        <viz:color r="255" g="117" b="38"></viz:color>
+        <viz:size value="8.529411"></viz:size>
+        <viz:position x="177.56276" y="-121.15749"></viz:position>
+        <viz:color r="0" g="215" b="255"></viz:color>
       </node>
       <node id="Rosiene Queres De Aguiar Soares" label="Rosiene Queres De Aguiar Soares">
         <attvalues>
@@ -1460,9 +1460,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="Western Paraná State University"></attvalue>
         </attvalues>
-        <viz:size value="13.176471"></viz:size>
-        <viz:position x="-225.53575" y="-428.13232"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="19.82353"></viz:size>
+        <viz:position x="-736.9842" y="176.20375"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="Rosângela S. Carvalho" label="Rosângela S. Carvalho">
         <attvalues>
@@ -1471,9 +1471,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="Universidade Federal de Pernambuco"></attvalue>
         </attvalues>
-        <viz:size value="6.470588"></viz:size>
-        <viz:position x="9.396717" y="172.28159"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="8.529411"></viz:size>
+        <viz:position x="-152.10628" y="-127.95191"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="Daniela Rodrigues Da Silva" label="Daniela Rodrigues Da Silva">
         <attvalues>
@@ -1482,9 +1482,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="Instituto Federal Rio Grande do Sul - Canoas"></attvalue>
         </attvalues>
-        <viz:size value="17.64706"></viz:size>
-        <viz:position x="-36.739864" y="-599.0893"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="27.352942"></viz:size>
+        <viz:position x="-771.4801" y="963.00397"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="Greidys Jorda Lueges" label="Greidys Jorda Lueges">
         <attvalues>
@@ -1493,9 +1493,9 @@
           <attvalue for="country" value="Cuba"></attvalue>
           <attvalue for="affiliation" value="Universidad de las Ciencias Informáticas"></attvalue>
         </attvalues>
-        <viz:size value="6.470588"></viz:size>
-        <viz:position x="107.98526" y="-37.2803"></viz:position>
-        <viz:color r="77" g="107" b="28"></viz:color>
+        <viz:size value="8.529411"></viz:size>
+        <viz:position x="198.72522" y="159.50488"></viz:position>
+        <viz:color r="134" g="67" b="107"></viz:color>
       </node>
       <node id="Beatriz Sánchez" label="Beatriz Sánchez">
         <attvalues>
@@ -1504,9 +1504,9 @@
           <attvalue for="country" value="Colombia"></attvalue>
           <attvalue for="affiliation" value="universidad nacional de Colombia"></attvalue>
         </attvalues>
-        <viz:size value="15.411765"></viz:size>
-        <viz:position x="402.74585" y="518.4718"></viz:position>
-        <viz:color r="83" g="212" b="0"></viz:color>
+        <viz:size value="23.588236"></viz:size>
+        <viz:position x="483.49225" y="1015.59503"></viz:position>
+        <viz:color r="60" g="217" b="0"></viz:color>
       </node>
       <node id="João Paulo Colling" label="João Paulo Colling">
         <attvalues>
@@ -1515,9 +1515,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="Unioeste"></attvalue>
         </attvalues>
-        <viz:size value="13.176471"></viz:size>
-        <viz:position x="271.6448" y="-401.04428"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="19.82353"></viz:size>
+        <viz:position x="-765.6068" y="254.76114"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="Demetrio Arturo Ovalle Carranza" label="Demetrio Arturo Ovalle Carranza">
         <attvalues>
@@ -1526,9 +1526,9 @@
           <attvalue for="country" value="Colombia"></attvalue>
           <attvalue for="affiliation" value="Universidad Nacional de Colombia - Sede Medellín"></attvalue>
         </attvalues>
-        <viz:size value="17.64706"></viz:size>
-        <viz:position x="390.34354" y="-480.98813"></viz:position>
-        <viz:color r="83" g="212" b="0"></viz:color>
+        <viz:size value="27.352942"></viz:size>
+        <viz:position x="-963.5437" y="226.8377"></viz:position>
+        <viz:color r="60" g="217" b="0"></viz:color>
       </node>
       <node id="Alejandra Castro Granados" label="Alejandra Castro Granados">
         <attvalues>
@@ -1537,9 +1537,9 @@
           <attvalue for="country" value="Costa Rica"></attvalue>
           <attvalue for="affiliation" value="UNED"></attvalue>
         </attvalues>
-        <viz:size value="10.941176"></viz:size>
-        <viz:position x="433.67926" y="49.963017"></viz:position>
-        <viz:color r="84" g="180" b="255"></viz:color>
+        <viz:size value="16.058823"></viz:size>
+        <viz:position x="-318.23734" y="-467.71155"></viz:position>
+        <viz:color r="255" g="102" b="177"></viz:color>
       </node>
       <node id="Paula Rodríguez" label="Paula Rodríguez">
         <attvalues>
@@ -1548,9 +1548,9 @@
           <attvalue for="country" value="Colombia"></attvalue>
           <attvalue for="affiliation" value="Universidad Nacional de Colombia"></attvalue>
         </attvalues>
-        <viz:size value="15.411765"></viz:size>
-        <viz:position x="-241.53476" y="526.96875"></viz:position>
-        <viz:color r="83" g="212" b="0"></viz:color>
+        <viz:size value="23.588236"></viz:size>
+        <viz:position x="-982.4829" y="-284.61578"></viz:position>
+        <viz:color r="60" g="217" b="0"></viz:color>
       </node>
       <node id="Alejandra Schiavoni" label="Alejandra Schiavoni">
         <attvalues>
@@ -1559,9 +1559,9 @@
           <attvalue for="country" value="Argentina"></attvalue>
           <attvalue for="affiliation" value="LINTI - Facultad de Informática - UNLP"></attvalue>
         </attvalues>
-        <viz:size value="13.176471"></viz:size>
-        <viz:position x="-291.1654" y="400.15793"></viz:position>
-        <viz:color r="0" g="218" b="255"></viz:color>
+        <viz:size value="19.82353"></viz:size>
+        <viz:position x="226.20729" y="656.9002"></viz:position>
+        <viz:color r="255" g="139" b="0"></viz:color>
       </node>
       <node id="Lucy Barrera" label="Lucy Barrera">
         <attvalues>
@@ -1570,9 +1570,9 @@
           <attvalue for="country" value="Colombia"></attvalue>
           <attvalue for="affiliation" value="Universidad Nacional de Colombia"></attvalue>
         </attvalues>
-        <viz:size value="15.411765"></viz:size>
-        <viz:position x="601.4394" y="257.9482"></viz:position>
-        <viz:color r="83" g="212" b="0"></viz:color>
+        <viz:size value="23.588236"></viz:size>
+        <viz:position x="469.14066" y="942.52594"></viz:position>
+        <viz:color r="60" g="217" b="0"></viz:color>
       </node>
       <node id="Emilia Charnelli" label="Emilia Charnelli">
         <attvalues>
@@ -1581,9 +1581,9 @@
           <attvalue for="country" value="Armenia"></attvalue>
           <attvalue for="affiliation" value="LINTI - Facultad de Informática - UNLP"></attvalue>
         </attvalues>
-        <viz:size value="13.176471"></viz:size>
-        <viz:position x="-15.5836935" y="578.2568"></viz:position>
-        <viz:color r="0" g="206" b="199"></viz:color>
+        <viz:size value="19.82353"></viz:size>
+        <viz:position x="287.24374" y="686.55396"></viz:position>
+        <viz:color r="255" g="95" b="85"></viz:color>
       </node>
       <node id="Pedro Aravena" label="Pedro Aravena">
         <attvalues>
@@ -1592,9 +1592,9 @@
           <attvalue for="country" value="Chile"></attvalue>
           <attvalue for="affiliation" value="Universidad Austral de Chile"></attvalue>
         </attvalues>
-        <viz:size value="10.941176"></viz:size>
-        <viz:position x="-426.5753" y="22.803402"></viz:position>
-        <viz:color r="0" g="100" b="112"></viz:color>
+        <viz:size value="16.058823"></viz:size>
+        <viz:position x="347.46347" y="-614.2398"></viz:position>
+        <viz:color r="185" g="178" b="0"></viz:color>
       </node>
       <node id="Pedro Nel Pacheco Durán" label="Pedro Nel Pacheco Durán">
         <attvalues>
@@ -1603,9 +1603,9 @@
           <attvalue for="country" value="Colombia"></attvalue>
           <attvalue for="affiliation" value="Universidad Nacional de Colombia"></attvalue>
         </attvalues>
-        <viz:size value="6.470588"></viz:size>
-        <viz:position x="172.7656" y="-68.59453"></viz:position>
-        <viz:color r="83" g="212" b="0"></viz:color>
+        <viz:size value="8.529411"></viz:size>
+        <viz:position x="304.2289" y="407.06894"></viz:position>
+        <viz:color r="60" g="217" b="0"></viz:color>
       </node>
       <node id="Dante Augusto Couto Barone" label="Dante Augusto Couto Barone">
         <attvalues>
@@ -1614,9 +1614,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="Instituto de Informática - UFRGS"></attvalue>
         </attvalues>
-        <viz:size value="10.941176"></viz:size>
-        <viz:position x="-54.00106" y="388.7627"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="16.058823"></viz:size>
+        <viz:position x="-44.652107" y="521.6199"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="Diego Hernan Peluffo Ordoñez" label="Diego Hernan Peluffo Ordoñez">
         <attvalues>
@@ -1625,9 +1625,9 @@
           <attvalue for="country" value="Colombia"></attvalue>
           <attvalue for="affiliation" value="Universidad Cooperativa de Colombia - Pasto"></attvalue>
         </attvalues>
-        <viz:size value="10.941176"></viz:size>
-        <viz:position x="-137.78235" y="236.36508"></viz:position>
-        <viz:color r="83" g="212" b="0"></viz:color>
+        <viz:size value="16.058823"></viz:size>
+        <viz:position x="-736.31116" y="318.15506"></viz:position>
+        <viz:color r="60" g="217" b="0"></viz:color>
       </node>
       <node id="Maria Wilda Fernandes Felipe" label="Maria Wilda Fernandes Felipe">
         <attvalues>
@@ -1636,9 +1636,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="Universidade Estadual do Ceará"></attvalue>
         </attvalues>
-        <viz:size value="8.705883"></viz:size>
-        <viz:position x="69.68344" y="-38.911205"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="12.294118"></viz:size>
+        <viz:position x="272.98724" y="-382.11298"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="Gloria Rojas Alvarez" label="Gloria Rojas Alvarez">
         <attvalues>
@@ -1647,9 +1647,9 @@
           <attvalue for="country" value="Colombia"></attvalue>
           <attvalue for="affiliation" value="Universidad Distrital Francisco JosÃ© de Caldas"></attvalue>
         </attvalues>
-        <viz:size value="10.941176"></viz:size>
-        <viz:position x="365.3029" y="375.91672"></viz:position>
-        <viz:color r="83" g="212" b="0"></viz:color>
+        <viz:size value="16.058823"></viz:size>
+        <viz:position x="-323.1981" y="-689.74426"></viz:position>
+        <viz:color r="60" g="217" b="0"></viz:color>
       </node>
       <node id="María Gamboa" label="María Gamboa">
         <attvalues>
@@ -1658,9 +1658,9 @@
           <attvalue for="country" value="Colombia"></attvalue>
           <attvalue for="affiliation" value="Universidad Nacional Abierta y a Distancia, UNAD"></attvalue>
         </attvalues>
-        <viz:size value="4.2352943"></viz:size>
-        <viz:position x="6.243067" y="-60.19684"></viz:position>
-        <viz:color r="83" g="212" b="0"></viz:color>
+        <viz:size value="4.7647057"></viz:size>
+        <viz:position x="-66.79672" y="-13.515242"></viz:position>
+        <viz:color r="60" g="217" b="0"></viz:color>
       </node>
       <node id="Danny Trujillo" label="Danny Trujillo">
         <attvalues>
@@ -1669,9 +1669,9 @@
           <attvalue for="country" value="Colombia"></attvalue>
           <attvalue for="affiliation" value="Universidad Nacional"></attvalue>
         </attvalues>
-        <viz:size value="6.470588"></viz:size>
-        <viz:position x="196.2896" y="-19.498207"></viz:position>
-        <viz:color r="83" g="212" b="0"></viz:color>
+        <viz:size value="8.529411"></viz:size>
+        <viz:position x="-573.34674" y="46.459515"></viz:position>
+        <viz:color r="60" g="217" b="0"></viz:color>
       </node>
       <node id="Ramon Fabregat" label="Ramon Fabregat">
         <attvalues>
@@ -1680,9 +1680,9 @@
           <attvalue for="country" value="Spain"></attvalue>
           <attvalue for="affiliation" value="Universitat de Girona España"></attvalue>
         </attvalues>
-        <viz:size value="19.882353"></viz:size>
-        <viz:position x="-477.80634" y="-458.20328"></viz:position>
-        <viz:color r="255" g="99" b="155"></viz:color>
+        <viz:size value="31.117647"></viz:size>
+        <viz:position x="-1117.8042" y="-309.26685"></viz:position>
+        <viz:color r="110" g="172" b="255"></viz:color>
       </node>
       <node id="Oscar Samuel Moreno Gómez" label="Oscar Samuel Moreno Gómez">
         <attvalues>
@@ -1691,9 +1691,9 @@
           <attvalue for="country" value="Colombia"></attvalue>
           <attvalue for="affiliation" value="Universidad Distrital Francisco JosÃ© de Caldas"></attvalue>
         </attvalues>
-        <viz:size value="2.0"></viz:size>
-        <viz:position x="-45.453487" y="-15.742126"></viz:position>
-        <viz:color r="83" g="212" b="0"></viz:color>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-2.5535781" y="-21.210266"></viz:position>
+        <viz:color r="60" g="217" b="0"></viz:color>
       </node>
       <node id="Dougglas Hurtado Carmona" label="Dougglas Hurtado Carmona">
         <attvalues>
@@ -1702,9 +1702,9 @@
           <attvalue for="country" value="Colombia"></attvalue>
           <attvalue for="affiliation" value="Politecnico Costa Atlántica"></attvalue>
         </attvalues>
-        <viz:size value="2.0"></viz:size>
-        <viz:position x="19.597227" y="-30.060286"></viz:position>
-        <viz:color r="83" g="212" b="0"></viz:color>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-22.589634" y="27.806007"></viz:position>
+        <viz:color r="60" g="217" b="0"></viz:color>
       </node>
       <node id="Edith Inés Ruiz Aguirre" label="Edith Inés Ruiz Aguirre">
         <attvalues>
@@ -1713,9 +1713,9 @@
           <attvalue for="country" value="Mexico"></attvalue>
           <attvalue for="affiliation" value="Universidad Virtual de la Universidad de Guadalajara"></attvalue>
         </attvalues>
-        <viz:size value="6.470588"></viz:size>
-        <viz:position x="115.45111" y="175.80138"></viz:position>
-        <viz:color r="255" g="117" b="38"></viz:color>
+        <viz:size value="8.529411"></viz:size>
+        <viz:position x="254.97847" y="-36.30127"></viz:position>
+        <viz:color r="0" g="215" b="255"></viz:color>
       </node>
       <node id="Jose Fager" label="Jose Fager">
         <attvalues>
@@ -1724,9 +1724,9 @@
           <attvalue for="country" value="Uruguay"></attvalue>
           <attvalue for="affiliation" value="UDELAR"></attvalue>
         </attvalues>
-        <viz:size value="15.411765"></viz:size>
-        <viz:position x="-459.90732" y="192.88339"></viz:position>
-        <viz:color r="223" g="193" b="173"></viz:color>
+        <viz:size value="23.588236"></viz:size>
+        <viz:position x="1070.5719" y="143.33328"></viz:position>
+        <viz:color r="223" g="191" b="164"></viz:color>
       </node>
       <node id="Fabio Andrade" label="Fabio Andrade">
         <attvalues>
@@ -1735,9 +1735,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="IFRS - Campus Bento Gonçalves"></attvalue>
         </attvalues>
-        <viz:size value="15.411765"></viz:size>
-        <viz:position x="634.78845" y="-316.76453"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="23.588236"></viz:size>
+        <viz:position x="923.34076" y="-330.36407"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="Mario Chacon" label="Mario Chacon">
         <attvalues>
@@ -1746,9 +1746,9 @@
           <attvalue for="country" value="Costa Rica"></attvalue>
           <attvalue for="affiliation" value="Instituto Tecnológico de Costa Rica"></attvalue>
         </attvalues>
-        <viz:size value="6.470588"></viz:size>
-        <viz:position x="99.002686" y="79.692474"></viz:position>
-        <viz:color r="84" g="180" b="255"></viz:color>
+        <viz:size value="8.529411"></viz:size>
+        <viz:position x="-83.32144" y="-227.65497"></viz:position>
+        <viz:color r="255" g="102" b="177"></viz:color>
       </node>
       <node id="Erika Piachescki Abreu" label="Erika Piachescki Abreu">
         <attvalues>
@@ -1757,9 +1757,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="Instituto Federal Rio Grande do Sul - Canoas"></attvalue>
         </attvalues>
-        <viz:size value="17.64706"></viz:size>
-        <viz:position x="-634.51404" y="-230.84903"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="27.352942"></viz:size>
+        <viz:position x="-618.11456" y="1008.94293"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="Mauricio Aguilar" label="Mauricio Aguilar">
         <attvalues>
@@ -1768,9 +1768,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="Universidad Federal de Juiz de Fora"></attvalue>
         </attvalues>
-        <viz:size value="10.941176"></viz:size>
-        <viz:position x="-449.3073" y="-50.5853"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="16.058823"></viz:size>
+        <viz:position x="437.62253" y="-535.83575"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="Anahí Lovato" label="Anahí Lovato">
         <attvalues>
@@ -1779,9 +1779,9 @@
           <attvalue for="country" value="Argentina"></attvalue>
           <attvalue for="affiliation" value="Universidad Nacional de Rosario"></attvalue>
         </attvalues>
-        <viz:size value="26.588236"></viz:size>
-        <viz:position x="-841.24915" y="194.71239"></viz:position>
-        <viz:color r="0" g="218" b="255"></viz:color>
+        <viz:size value="42.411766"></viz:size>
+        <viz:position x="476.12552" y="-1318.3851"></viz:position>
+        <viz:color r="255" g="139" b="0"></viz:color>
       </node>
       <node id="Victor Melo" label="Victor Melo">
         <attvalues>
@@ -1790,9 +1790,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="UFRPE"></attvalue>
         </attvalues>
-        <viz:size value="8.705883"></viz:size>
-        <viz:position x="372.1049" y="11.37341"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="12.294118"></viz:size>
+        <viz:position x="-500.3265" y="-304.0881"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="Sandra Oviedo" label="Sandra Oviedo">
         <attvalues>
@@ -1801,9 +1801,9 @@
           <attvalue for="country" value="Argentina"></attvalue>
           <attvalue for="affiliation" value="Universidad Nacional de San Juan"></attvalue>
         </attvalues>
-        <viz:size value="8.705883"></viz:size>
-        <viz:position x="-137.09799" y="300.93088"></viz:position>
-        <viz:color r="0" g="218" b="255"></viz:color>
+        <viz:size value="12.294118"></viz:size>
+        <viz:position x="158.96136" y="-428.88358"></viz:position>
+        <viz:color r="255" g="139" b="0"></viz:color>
       </node>
       <node id="Luis F. Montoya" label="Luis F. Montoya">
         <attvalues>
@@ -1812,9 +1812,9 @@
           <attvalue for="country" value="Colombia"></attvalue>
           <attvalue for="affiliation" value="Universidad Nacional de Colombia - Sede Medellín"></attvalue>
         </attvalues>
-        <viz:size value="6.470588"></viz:size>
-        <viz:position x="214.94649" y="18.213234"></viz:position>
-        <viz:color r="83" g="212" b="0"></viz:color>
+        <viz:size value="8.529411"></viz:size>
+        <viz:position x="-415.4794" y="31.623901"></viz:position>
+        <viz:color r="60" g="217" b="0"></viz:color>
       </node>
       <node id="Alejandra Otazú" label="Alejandra Otazú">
         <attvalues>
@@ -1823,9 +1823,9 @@
           <attvalue for="country" value="Argentina"></attvalue>
           <attvalue for="affiliation" value="Universidad Nacional de San Juan"></attvalue>
         </attvalues>
-        <viz:size value="8.705883"></viz:size>
-        <viz:position x="90.36553" y="284.54562"></viz:position>
-        <viz:color r="0" g="218" b="255"></viz:color>
+        <viz:size value="12.294118"></viz:size>
+        <viz:position x="188.5044" y="-390.39023"></viz:position>
+        <viz:color r="255" g="139" b="0"></viz:color>
       </node>
       <node id="Belkis Soler Blanco" label="Belkis Soler Blanco">
         <attvalues>
@@ -1834,9 +1834,9 @@
           <attvalue for="country" value="Cuba"></attvalue>
           <attvalue for="affiliation" value="Universidad de las Ciencias Informáticas"></attvalue>
         </attvalues>
-        <viz:size value="6.470588"></viz:size>
-        <viz:position x="-55.436813" y="-119.04606"></viz:position>
-        <viz:color r="77" g="107" b="28"></viz:color>
+        <viz:size value="8.529411"></viz:size>
+        <viz:position x="213.65292" y="117.845856"></viz:position>
+        <viz:color r="134" g="67" b="107"></viz:color>
       </node>
       <node id="Maria Elena García Diaz" label="Maria Elena García Diaz">
         <attvalues>
@@ -1845,9 +1845,9 @@
           <attvalue for="country" value="Paraguay"></attvalue>
           <attvalue for="affiliation" value="Departamento de Informática, Facultad Politécnica – Universidad Nacional de Asunción (UNA)"></attvalue>
         </attvalues>
-        <viz:size value="22.11765"></viz:size>
-        <viz:position x="-592.99536" y="172.36395"></viz:position>
-        <viz:color r="155" g="70" b="44"></viz:color>
+        <viz:size value="34.882355"></viz:size>
+        <viz:position x="964.4604" y="645.9132"></viz:position>
+        <viz:color r="106" g="79" b="19"></viz:color>
       </node>
       <node id="Miguel Ángel Sicilia" label="Miguel Ángel Sicilia">
         <attvalues>
@@ -1856,9 +1856,9 @@
           <attvalue for="country" value="Spain"></attvalue>
           <attvalue for="affiliation" value="UAH"></attvalue>
         </attvalues>
-        <viz:size value="8.705883"></viz:size>
-        <viz:position x="-74.6195" y="-343.10992"></viz:position>
-        <viz:color r="255" g="99" b="155"></viz:color>
+        <viz:size value="12.294118"></viz:size>
+        <viz:position x="-152.76811" y="-398.7976"></viz:position>
+        <viz:color r="110" g="172" b="255"></viz:color>
       </node>
       <node id="Guilherme Felipe Zabot" label="Guilherme Felipe Zabot">
         <attvalues>
@@ -1867,9 +1867,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="Western Paraná State University"></attvalue>
         </attvalues>
-        <viz:size value="13.176471"></viz:size>
-        <viz:position x="-160.91443" y="-467.68292"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="19.82353"></viz:size>
+        <viz:position x="-804.6846" y="170.54129"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="Julieth Paola Hurtado Ortíz" label="Julieth Paola Hurtado Ortíz">
         <attvalues>
@@ -1878,9 +1878,9 @@
           <attvalue for="country" value="Colombia"></attvalue>
           <attvalue for="affiliation" value="Universidad Pedagógica y Tecnológica de Colombia"></attvalue>
         </attvalues>
-        <viz:size value="10.941176"></viz:size>
-        <viz:position x="180.65395" y="310.1063"></viz:position>
-        <viz:color r="83" g="212" b="0"></viz:color>
+        <viz:size value="16.058823"></viz:size>
+        <viz:position x="-121.34637" y="-676.3817"></viz:position>
+        <viz:color r="60" g="217" b="0"></viz:color>
       </node>
       <node id="Italia Estrada" label="Italia Estrada">
         <attvalues>
@@ -1889,9 +1889,9 @@
           <attvalue for="country" value="Mexico"></attvalue>
           <attvalue for="affiliation" value="Universidad Autónoma de Baja California Sur"></attvalue>
         </attvalues>
-        <viz:size value="10.941176"></viz:size>
-        <viz:position x="-194.0475" y="362.76038"></viz:position>
-        <viz:color r="255" g="117" b="38"></viz:color>
+        <viz:size value="16.058823"></viz:size>
+        <viz:position x="606.3359" y="108.422134"></viz:position>
+        <viz:color r="0" g="215" b="255"></viz:color>
       </node>
       <node id="Santiago Fontanarrosa" label="Santiago Fontanarrosa">
         <attvalues>
@@ -1900,9 +1900,9 @@
           <attvalue for="country" value="Argentina"></attvalue>
           <attvalue for="affiliation" value="Universidad Nacional de Rosario"></attvalue>
         </attvalues>
-        <viz:size value="8.705883"></viz:size>
-        <viz:position x="190.1158" y="236.76378"></viz:position>
-        <viz:color r="0" g="218" b="255"></viz:color>
+        <viz:size value="12.294118"></viz:size>
+        <viz:position x="341.43283" y="288.91064"></viz:position>
+        <viz:color r="255" g="139" b="0"></viz:color>
       </node>
       <node id="Claudia Russo" label="Claudia Russo">
         <attvalues>
@@ -1911,9 +1911,9 @@
           <attvalue for="country" value="Argentina"></attvalue>
           <attvalue for="affiliation" value="UNNOBA"></attvalue>
         </attvalues>
-        <viz:size value="8.705883"></viz:size>
-        <viz:position x="-188.17972" y="261.47742"></viz:position>
-        <viz:color r="0" g="218" b="255"></viz:color>
+        <viz:size value="12.294118"></viz:size>
+        <viz:position x="-1.3475966" y="-426.09348"></viz:position>
+        <viz:color r="255" g="139" b="0"></viz:color>
       </node>
       <node id="Viviana Bustos Amador" label="Viviana Bustos Amador">
         <attvalues>
@@ -1922,9 +1922,9 @@
           <attvalue for="country" value="Mexico"></attvalue>
           <attvalue for="affiliation" value="Universidad Autónoma de Aguascalientes"></attvalue>
         </attvalues>
-        <viz:size value="10.941176"></viz:size>
-        <viz:position x="303.48895" y="-240.63963"></viz:position>
-        <viz:color r="255" g="117" b="38"></viz:color>
+        <viz:size value="16.058823"></viz:size>
+        <viz:position x="-247.54147" y="609.70685"></viz:position>
+        <viz:color r="0" g="215" b="255"></viz:color>
       </node>
       <node id="João Pedro Guterres" label="João Pedro Guterres">
         <attvalues>
@@ -1933,9 +1933,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="PUCRS"></attvalue>
         </attvalues>
-        <viz:size value="17.64706"></viz:size>
-        <viz:position x="-298.09125" y="-489.30664"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="27.352942"></viz:size>
+        <viz:position x="753.4945" y="-165.3353"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="Juan Pedro Cardona Salas" label="Juan Pedro Cardona Salas">
         <attvalues>
@@ -1944,9 +1944,9 @@
           <attvalue for="country" value="Mexico"></attvalue>
           <attvalue for="affiliation" value="Universidad Autonoma de Aguascalientes"></attvalue>
         </attvalues>
-        <viz:size value="17.64706"></viz:size>
-        <viz:position x="-147.21101" y="-670.4065"></viz:position>
-        <viz:color r="255" g="117" b="38"></viz:color>
+        <viz:size value="27.352942"></viz:size>
+        <viz:position x="-85.02178" y="977.58844"></viz:position>
+        <viz:color r="0" g="215" b="255"></viz:color>
       </node>
       <node id="Francisco Alvarez" label="Francisco Alvarez">
         <attvalues>
@@ -1955,9 +1955,9 @@
           <attvalue for="country" value="Mexico"></attvalue>
           <attvalue for="affiliation" value="Universidad Autnoma de Aguascalientes"></attvalue>
         </attvalues>
-        <viz:size value="22.11765"></viz:size>
-        <viz:position x="288.99756" y="-723.29944"></viz:position>
-        <viz:color r="255" g="117" b="38"></viz:color>
+        <viz:size value="34.882355"></viz:size>
+        <viz:position x="-223.61824" y="943.61664"></viz:position>
+        <viz:color r="0" g="215" b="255"></viz:color>
       </node>
       <node id="Marcello Silva" label="Marcello Silva">
         <attvalues>
@@ -1966,9 +1966,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="UFRPE"></attvalue>
         </attvalues>
-        <viz:size value="10.941176"></viz:size>
-        <viz:position x="423.32886" y="-53.168964"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="16.058823"></viz:size>
+        <viz:position x="-582.66736" y="-483.2648"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="Mára Lúcia Carneiro" label="Mára Lúcia Carneiro">
         <attvalues>
@@ -1977,9 +1977,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="UFRGS"></attvalue>
         </attvalues>
-        <viz:size value="6.470588"></viz:size>
-        <viz:position x="-215.17145" y="-173.35255"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="8.529411"></viz:size>
+        <viz:position x="-255.33948" y="401.71466"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="Fredy Andres Aponte Novoa" label="Fredy Andres Aponte Novoa">
         <attvalues>
@@ -1988,9 +1988,9 @@
           <attvalue for="country" value="Colombia"></attvalue>
           <attvalue for="affiliation" value="Universidad Santo Tomás Seccional Tunja"></attvalue>
         </attvalues>
-        <viz:size value="6.470588"></viz:size>
-        <viz:position x="-182.44585" y="111.84869"></viz:position>
-        <viz:color r="83" g="212" b="0"></viz:color>
+        <viz:size value="8.529411"></viz:size>
+        <viz:position x="256.963" y="-168.1037"></viz:position>
+        <viz:color r="60" g="217" b="0"></viz:color>
       </node>
       <node id="César Eduardo Velázquez Amador" label="César Eduardo Velázquez Amador">
         <attvalues>
@@ -1999,9 +1999,9 @@
           <attvalue for="country" value="Mexico"></attvalue>
           <attvalue for="affiliation" value="Universidad Autónoma de Aguascalientes"></attvalue>
         </attvalues>
-        <viz:size value="24.352942"></viz:size>
-        <viz:position x="419.1338" y="-664.50165"></viz:position>
-        <viz:color r="255" g="117" b="38"></viz:color>
+        <viz:size value="38.64706"></viz:size>
+        <viz:position x="-46.42271" y="1074.5472"></viz:position>
+        <viz:color r="0" g="215" b="255"></viz:color>
       </node>
       <node id="Karl Correa" label="Karl Correa">
         <attvalues>
@@ -2010,9 +2010,9 @@
           <attvalue for="country" value="Venezuela"></attvalue>
           <attvalue for="affiliation" value="Universidad Central de Venezuela"></attvalue>
         </attvalues>
-        <viz:size value="6.470588"></viz:size>
-        <viz:position x="143.92567" y="-173.76059"></viz:position>
-        <viz:color r="215" g="171" b="0"></viz:color>
+        <viz:size value="8.529411"></viz:size>
+        <viz:position x="67.07215" y="439.69272"></viz:position>
+        <viz:color r="0" g="104" b="116"></viz:color>
       </node>
       <node id="Nicolas Alonso" label="Nicolas Alonso">
         <attvalues>
@@ -2021,9 +2021,9 @@
           <attvalue for="country" value="Argentina"></attvalue>
           <attvalue for="affiliation" value="UNNOBA"></attvalue>
         </attvalues>
-        <viz:size value="8.705883"></viz:size>
-        <viz:position x="-85.29826" y="263.79147"></viz:position>
-        <viz:color r="0" g="218" b="255"></viz:color>
+        <viz:size value="12.294118"></viz:size>
+        <viz:position x="63.80101" y="-447.4818"></viz:position>
+        <viz:color r="255" g="139" b="0"></viz:color>
       </node>
       <node id="Maria Cristina Canela" label="Maria Cristina Canela">
         <attvalues>
@@ -2032,9 +2032,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="UENF"></attvalue>
         </attvalues>
-        <viz:size value="13.176471"></viz:size>
-        <viz:position x="326.17697" y="327.96762"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="19.82353"></viz:size>
+        <viz:position x="-594.17004" y="-809.93823"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="Kelen Silveira Bernardi" label="Kelen Silveira Bernardi">
         <attvalues>
@@ -2043,9 +2043,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="PUCRS"></attvalue>
         </attvalues>
-        <viz:size value="6.470588"></viz:size>
-        <viz:position x="-98.14399" y="-145.16289"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="8.529411"></viz:size>
+        <viz:position x="-238.11601" y="127.638824"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="Francisco Javier Colunga Gallegos" label="Francisco Javier Colunga Gallegos">
         <attvalues>
@@ -2054,9 +2054,9 @@
           <attvalue for="country" value="Mexico"></attvalue>
           <attvalue for="affiliation" value="Universidad Autónoma de Aguascalientes"></attvalue>
         </attvalues>
-        <viz:size value="4.2352943"></viz:size>
-        <viz:position x="59.445156" y="13.536695"></viz:position>
-        <viz:color r="255" g="117" b="38"></viz:color>
+        <viz:size value="4.7647057"></viz:size>
+        <viz:position x="-56.96789" y="323.7881"></viz:position>
+        <viz:color r="0" g="215" b="255"></viz:color>
       </node>
       <node id="Heloisa H. D. Azevedo" label="Heloisa H. D. Azevedo">
         <attvalues>
@@ -2065,9 +2065,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="UFPel"></attvalue>
         </attvalues>
-        <viz:size value="4.2352943"></viz:size>
-        <viz:position x="-50.822186" y="-80.889046"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="4.7647057"></viz:size>
+        <viz:position x="-6.991382" y="113.04304"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="Evandro Franzen" label="Evandro Franzen">
         <attvalues>
@@ -2076,9 +2076,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="Univates"></attvalue>
         </attvalues>
-        <viz:size value="10.941176"></viz:size>
-        <viz:position x="-245.41571" y="290.65704"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="16.058823"></viz:size>
+        <viz:position x="-82.89634" y="442.43552"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="Juan Pablo Carvallo" label="Juan Pablo Carvallo">
         <attvalues>
@@ -2087,9 +2087,9 @@
           <attvalue for="country" value="Ecuador"></attvalue>
           <attvalue for="affiliation" value="Universidad de Cuenca"></attvalue>
         </attvalues>
-        <viz:size value="6.470588"></viz:size>
-        <viz:position x="-49.80058" y="-211.63138"></viz:position>
-        <viz:color r="140" g="80" b="136"></viz:color>
+        <viz:size value="8.529411"></viz:size>
+        <viz:position x="101.08854" y="171.27113"></viz:position>
+        <viz:color r="0" g="211" b="194"></viz:color>
       </node>
       <node id="Gloria Mabel Carrillo" label="Gloria Mabel Carrillo">
         <attvalues>
@@ -2098,9 +2098,9 @@
           <attvalue for="country" value="Colombia"></attvalue>
           <attvalue for="affiliation" value="Universidad Nacional de Colombia"></attvalue>
         </attvalues>
-        <viz:size value="15.411765"></viz:size>
-        <viz:position x="526.8707" y="350.26306"></viz:position>
-        <viz:color r="83" g="212" b="0"></viz:color>
+        <viz:size value="23.588236"></viz:size>
+        <viz:position x="376.07162" y="946.37006"></viz:position>
+        <viz:color r="60" g="217" b="0"></viz:color>
       </node>
       <node id="Norma Elisabet Martínez Vázquez" label="Norma Elisabet Martínez Vázquez">
         <attvalues>
@@ -2109,9 +2109,9 @@
           <attvalue for="country" value="Cuba"></attvalue>
           <attvalue for="affiliation" value="Universidad de las Ciencias Informáticas"></attvalue>
         </attvalues>
-        <viz:size value="6.470588"></viz:size>
-        <viz:position x="16.687172" y="-113.820175"></viz:position>
-        <viz:color r="77" g="107" b="28"></viz:color>
+        <viz:size value="8.529411"></viz:size>
+        <viz:position x="239.76164" y="149.73547"></viz:position>
+        <viz:color r="134" g="67" b="107"></viz:color>
       </node>
       <node id="Beatriz Pacheco" label="Beatriz Pacheco">
         <attvalues>
@@ -2120,9 +2120,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="Universidade Presbiteriana Mackenzie"></attvalue>
         </attvalues>
-        <viz:size value="8.705883"></viz:size>
-        <viz:position x="259.25192" y="-12.485869"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="12.294118"></viz:size>
+        <viz:position x="-99.872665" y="278.8849"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="Andrea Morales Santamaria" label="Andrea Morales Santamaria">
         <attvalues>
@@ -2131,9 +2131,9 @@
           <attvalue for="country" value="Colombia"></attvalue>
           <attvalue for="affiliation" value="Universidad Nacional de Colombia"></attvalue>
         </attvalues>
-        <viz:size value="4.2352943"></viz:size>
-        <viz:position x="36.210606" y="-50.19842"></viz:position>
-        <viz:color r="83" g="212" b="0"></viz:color>
+        <viz:size value="4.7647057"></viz:size>
+        <viz:position x="-50.314217" y="-93.676544"></viz:position>
+        <viz:color r="60" g="217" b="0"></viz:color>
       </node>
       <node id="Giovanna Patricia Medina Pulido" label="Giovanna Patricia Medina Pulido">
         <attvalues>
@@ -2142,9 +2142,9 @@
           <attvalue for="country" value="Colombia"></attvalue>
           <attvalue for="affiliation" value="Universidad Distrital Francisco JosÃ© de Caldas"></attvalue>
         </attvalues>
-        <viz:size value="10.941176"></viz:size>
-        <viz:position x="304.02185" y="412.61954"></viz:position>
-        <viz:color r="83" g="212" b="0"></viz:color>
+        <viz:size value="16.058823"></viz:size>
+        <viz:position x="-247.14044" y="-651.73047"></viz:position>
+        <viz:color r="60" g="217" b="0"></viz:color>
       </node>
       <node id="Alvaro David Moreno Gomez" label="Alvaro David Moreno Gomez">
         <attvalues>
@@ -2153,9 +2153,9 @@
           <attvalue for="country" value="Colombia"></attvalue>
           <attvalue for="affiliation" value="universidad nacional de Colombia"></attvalue>
         </attvalues>
-        <viz:size value="24.352942"></viz:size>
-        <viz:position x="781.0603" y="4.6032724"></viz:position>
-        <viz:color r="83" g="212" b="0"></viz:color>
+        <viz:size value="38.64706"></viz:size>
+        <viz:position x="569.63776" y="787.41406"></viz:position>
+        <viz:color r="60" g="217" b="0"></viz:color>
       </node>
       <node id="Sergio Ramiro Briceño Castañeda" label="Sergio Ramiro Briceño Castañeda">
         <attvalues>
@@ -2164,9 +2164,9 @@
           <attvalue for="country" value="Colombia"></attvalue>
           <attvalue for="affiliation" value="Universidad Distrital Francisco JosÃ© de Caldas"></attvalue>
         </attvalues>
-        <viz:size value="8.705883"></viz:size>
-        <viz:position x="107.50957" y="-259.14117"></viz:position>
-        <viz:color r="83" g="212" b="0"></viz:color>
+        <viz:size value="12.294118"></viz:size>
+        <viz:position x="397.84027" y="-293.08948"></viz:position>
+        <viz:color r="60" g="217" b="0"></viz:color>
       </node>
       <node id="Gabriela Perry" label="Gabriela Perry">
         <attvalues>
@@ -2175,9 +2175,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="Universidade Federal do Rio Grande do Sul"></attvalue>
         </attvalues>
-        <viz:size value="24.352942"></viz:size>
-        <viz:position x="-637.49164" y="-395.70013"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="38.64706"></viz:size>
+        <viz:position x="-620.5353" y="834.53815"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="Danyllo Andrade" label="Danyllo Andrade">
         <attvalues>
@@ -2186,9 +2186,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="UFRPE"></attvalue>
         </attvalues>
-        <viz:size value="8.705883"></viz:size>
-        <viz:position x="369.4445" y="66.48499"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="12.294118"></viz:size>
+        <viz:position x="-457.78983" y="-287.13028"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="Ivanildo José De Melo Filho" label="Ivanildo José De Melo Filho">
         <attvalues>
@@ -2197,9 +2197,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="Universidade Federal de Pernambuco"></attvalue>
         </attvalues>
-        <viz:size value="6.470588"></viz:size>
-        <viz:position x="-62.028793" y="209.11836"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="8.529411"></viz:size>
+        <viz:position x="-195.0469" y="-109.56247"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="Ilse Pradenas" label="Ilse Pradenas">
         <attvalues>
@@ -2208,9 +2208,9 @@
           <attvalue for="country" value="Chile"></attvalue>
           <attvalue for="affiliation" value="Universidad de Antofagasta"></attvalue>
         </attvalues>
-        <viz:size value="10.941176"></viz:size>
-        <viz:position x="-438.2101" y="-185.89423"></viz:position>
-        <viz:color r="0" g="100" b="112"></viz:color>
+        <viz:size value="16.058823"></viz:size>
+        <viz:position x="377.24362" y="-529.61615"></viz:position>
+        <viz:color r="185" g="178" b="0"></viz:color>
       </node>
       <node id="José Eduardo Nunes Vargas" label="José Eduardo Nunes Vargas">
         <attvalues>
@@ -2219,9 +2219,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="UFPel"></attvalue>
         </attvalues>
-        <viz:size value="4.2352943"></viz:size>
-        <viz:position x="-24.724546" y="-64.55263"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="4.7647057"></viz:size>
+        <viz:position x="0.37744945" y="86.00584"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="Paulo Realpe" label="Paulo Realpe">
         <attvalues>
@@ -2230,9 +2230,9 @@
           <attvalue for="country" value="Colombia"></attvalue>
           <attvalue for="affiliation" value="Universidad del Cauca"></attvalue>
         </attvalues>
-        <viz:size value="8.705883"></viz:size>
-        <viz:position x="-6.5300813" y="-287.09198"></viz:position>
-        <viz:color r="83" g="212" b="0"></viz:color>
+        <viz:size value="12.294118"></viz:size>
+        <viz:position x="-328.79153" y="467.60123"></viz:position>
+        <viz:color r="60" g="217" b="0"></viz:color>
       </node>
       <node id="Tania Catalina Amaya Rincón" label="Tania Catalina Amaya Rincón">
         <attvalues>
@@ -2241,9 +2241,9 @@
           <attvalue for="country" value="Colombia"></attvalue>
           <attvalue for="affiliation" value="Universidad Pedagógica y Tecnológica de Colombia"></attvalue>
         </attvalues>
-        <viz:size value="10.941176"></viz:size>
-        <viz:position x="323.4201" y="171.67398"></viz:position>
-        <viz:color r="83" g="212" b="0"></viz:color>
+        <viz:size value="16.058823"></viz:size>
+        <viz:position x="-65.66873" y="-684.55316"></viz:position>
+        <viz:color r="60" g="217" b="0"></viz:color>
       </node>
       <node id="Paula Andrea Rodríguez Marín" label="Paula Andrea Rodríguez Marín">
         <attvalues>
@@ -2252,9 +2252,9 @@
           <attvalue for="country" value="Colombia"></attvalue>
           <attvalue for="affiliation" value="Universidad Nacional de Colombia Sede Medellin"></attvalue>
         </attvalues>
-        <viz:size value="10.941176"></viz:size>
-        <viz:position x="288.88452" y="-162.69632"></viz:position>
-        <viz:color r="83" g="212" b="0"></viz:color>
+        <viz:size value="16.058823"></viz:size>
+        <viz:position x="-701.2937" y="273.7114"></viz:position>
+        <viz:color r="60" g="217" b="0"></viz:color>
       </node>
       <node id="Cristina Bender" label="Cristina Bender">
         <attvalues>
@@ -2263,9 +2263,9 @@
           <attvalue for="country" value="Argentina"></attvalue>
           <attvalue for="affiliation" value="Universidad Nacional de Rosario; Pontificia Universidad Católica Argentina"></attvalue>
         </attvalues>
-        <viz:size value="8.705883"></viz:size>
-        <viz:position x="0.5281277" y="315.02817"></viz:position>
-        <viz:color r="0" g="218" b="255"></viz:color>
+        <viz:size value="12.294118"></viz:size>
+        <viz:position x="327.63474" y="239.65921"></viz:position>
+        <viz:color r="255" g="139" b="0"></viz:color>
       </node>
       <node id="Sandra Patricia Quitian Bernal" label="Sandra Patricia Quitian Bernal">
         <attvalues>
@@ -2274,9 +2274,9 @@
           <attvalue for="country" value="Colombia"></attvalue>
           <attvalue for="affiliation" value="Universidad Distrital Francisco JosÃ© de Caldas"></attvalue>
         </attvalues>
-        <viz:size value="10.941176"></viz:size>
-        <viz:position x="190.90907" y="445.476"></viz:position>
-        <viz:color r="83" g="212" b="0"></viz:color>
+        <viz:size value="16.058823"></viz:size>
+        <viz:position x="-284.05197" y="-610.0451"></viz:position>
+        <viz:color r="60" g="217" b="0"></viz:color>
       </node>
       <node id="Natalia Correa" label="Natalia Correa">
         <attvalues>
@@ -2285,9 +2285,9 @@
           <attvalue for="country" value="Uruguay"></attvalue>
           <attvalue for="affiliation" value="Universidad de la República"></attvalue>
         </attvalues>
-        <viz:size value="15.411765"></viz:size>
-        <viz:position x="416.06305" y="-171.67278"></viz:position>
-        <viz:color r="223" g="193" b="173"></viz:color>
+        <viz:size value="23.588236"></viz:size>
+        <viz:position x="1017.25214" y="268.447"></viz:position>
+        <viz:color r="223" g="191" b="164"></viz:color>
       </node>
       <node id="Tiago Soares" label="Tiago Soares">
         <attvalues>
@@ -2296,9 +2296,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="MIRA Project"></attvalue>
         </attvalues>
-        <viz:size value="6.470588"></viz:size>
-        <viz:position x="-163.39272" y="-73.97937"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="8.529411"></viz:size>
+        <viz:position x="43.8427" y="-225.73248"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="Vinicius Woloszyn" label="Vinicius Woloszyn">
         <attvalues>
@@ -2307,9 +2307,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="Instituto de Informática - UFRGS"></attvalue>
         </attvalues>
-        <viz:size value="10.941176"></viz:size>
-        <viz:position x="-292.0454" y="116.8493"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="16.058823"></viz:size>
+        <viz:position x="-137.09764" y="471.45984"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="José Garcia" label="José Garcia">
         <attvalues>
@@ -2318,9 +2318,9 @@
           <attvalue for="country" value="Venezuela"></attvalue>
           <attvalue for="affiliation" value="Universidad Central de Venezuela"></attvalue>
         </attvalues>
-        <viz:size value="8.705883"></viz:size>
-        <viz:position x="141.16821" y="371.49686"></viz:position>
-        <viz:color r="215" g="171" b="0"></viz:color>
+        <viz:size value="12.294118"></viz:size>
+        <viz:position x="403.1572" y="85.76"></viz:position>
+        <viz:color r="0" g="104" b="116"></viz:color>
       </node>
       <node id="João Batista Carvalho Nunes" label="João Batista Carvalho Nunes">
         <attvalues>
@@ -2329,9 +2329,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="Universidade Estadual do Ceará"></attvalue>
         </attvalues>
-        <viz:size value="8.705883"></viz:size>
-        <viz:position x="-146.49632" y="-160.62859"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="12.294118"></viz:size>
+        <viz:position x="325.19495" y="-386.0697"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="Leonardo Esnaola" label="Leonardo Esnaola">
         <attvalues>
@@ -2340,9 +2340,9 @@
           <attvalue for="country" value="Argentina"></attvalue>
           <attvalue for="affiliation" value="UNNOBA"></attvalue>
         </attvalues>
-        <viz:size value="8.705883"></viz:size>
-        <viz:position x="-55.999367" y="307.06885"></viz:position>
-        <viz:color r="0" g="218" b="255"></viz:color>
+        <viz:size value="12.294118"></viz:size>
+        <viz:position x="35.510365" y="-393.3744"></viz:position>
+        <viz:color r="255" g="139" b="0"></viz:color>
       </node>
       <node id="Silvia de Castro Bertagnolli" label="Silvia de Castro Bertagnolli">
         <attvalues>
@@ -2351,9 +2351,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="Instituto Federal Rio Grande do Sul - Canoas"></attvalue>
         </attvalues>
-        <viz:size value="17.64706"></viz:size>
-        <viz:position x="-399.06006" y="-517.6136"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="27.352942"></viz:size>
+        <viz:position x="-723.295" y="871.9175"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="Sandra Cano" label="Sandra Cano">
         <attvalues>
@@ -2362,9 +2362,9 @@
           <attvalue for="country" value="Colombia"></attvalue>
           <attvalue for="affiliation" value="Universidad del Cauca"></attvalue>
         </attvalues>
-        <viz:size value="10.941176"></viz:size>
-        <viz:position x="251.24033" y="207.12827"></viz:position>
-        <viz:color r="83" g="212" b="0"></viz:color>
+        <viz:size value="16.058823"></viz:size>
+        <viz:position x="-295.69733" y="636.4879"></viz:position>
+        <viz:color r="60" g="217" b="0"></viz:color>
       </node>
       <node id="Andrés Sandoval" label="Andrés Sandoval">
         <attvalues>
@@ -2373,9 +2373,9 @@
           <attvalue for="country" value="Mexico"></attvalue>
           <attvalue for="affiliation" value="Universidad Autónoma de Baja California Sur"></attvalue>
         </attvalues>
-        <viz:size value="10.941176"></viz:size>
-        <viz:position x="-78.29072" y="457.01593"></viz:position>
-        <viz:color r="255" g="117" b="38"></viz:color>
+        <viz:size value="16.058823"></viz:size>
+        <viz:position x="665.6301" y="147.4009"></viz:position>
+        <viz:color r="0" g="215" b="255"></viz:color>
       </node>
       <node id="Marianela Aciar" label="Marianela Aciar">
         <attvalues>
@@ -2384,9 +2384,9 @@
           <attvalue for="country" value="Argentina"></attvalue>
           <attvalue for="affiliation" value="Universidad Nacional de San Juan"></attvalue>
         </attvalues>
-        <viz:size value="6.470588"></viz:size>
-        <viz:position x="-272.55692" y="-58.240555"></viz:position>
-        <viz:color r="0" g="218" b="255"></viz:color>
+        <viz:size value="8.529411"></viz:size>
+        <viz:position x="-414.8013" y="-101.8084"></viz:position>
+        <viz:color r="255" g="139" b="0"></viz:color>
       </node>
       <node id="Zildomar Felix" label="Zildomar Felix">
         <attvalues>
@@ -2395,9 +2395,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="UFRPE"></attvalue>
         </attvalues>
-        <viz:size value="17.64706"></viz:size>
-        <viz:position x="672.9086" y="125.31923"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="27.352942"></viz:size>
+        <viz:position x="-699.21326" y="-482.7871"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="Pedro Cesar Alfonso Ferrer" label="Pedro Cesar Alfonso Ferrer">
         <attvalues>
@@ -2406,9 +2406,9 @@
           <attvalue for="country" value="Cuba"></attvalue>
           <attvalue for="affiliation" value="Salud Pública"></attvalue>
         </attvalues>
-        <viz:size value="4.2352943"></viz:size>
-        <viz:position x="4.2554717" y="5.4391766"></viz:position>
-        <viz:color r="77" g="107" b="28"></viz:color>
+        <viz:size value="4.7647057"></viz:size>
+        <viz:position x="43.9433" y="-149.91537"></viz:position>
+        <viz:color r="134" g="67" b="107"></viz:color>
       </node>
       <node id="Francisco Junior" label="Francisco Junior">
         <attvalues>
@@ -2417,9 +2417,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="UFRPE"></attvalue>
         </attvalues>
-        <viz:size value="10.941176"></viz:size>
-        <viz:position x="201.03517" y="-330.9467"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="16.058823"></viz:size>
+        <viz:position x="-584.12115" y="-382.1737"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="Andrea Serna" label="Andrea Serna">
         <attvalues>
@@ -2428,9 +2428,9 @@
           <attvalue for="country" value="Colombia"></attvalue>
           <attvalue for="affiliation" value="Pontificia Universidad Javeriana de Cali"></attvalue>
         </attvalues>
-        <viz:size value="6.470588"></viz:size>
-        <viz:position x="122.123726" y="51.176144"></viz:position>
-        <viz:color r="83" g="212" b="0"></viz:color>
+        <viz:size value="8.529411"></viz:size>
+        <viz:position x="286.62927" y="63.140068"></viz:position>
+        <viz:color r="60" g="217" b="0"></viz:color>
       </node>
       <node id="Fabrizio Roberto" label="Fabrizio Roberto">
         <attvalues>
@@ -2439,9 +2439,9 @@
           <attvalue for="country" value="Uruguay"></attvalue>
           <attvalue for="affiliation" value="Universidad de la República"></attvalue>
         </attvalues>
-        <viz:size value="26.588236"></viz:size>
-        <viz:position x="-30.420883" y="843.61786"></viz:position>
-        <viz:color r="223" g="193" b="173"></viz:color>
+        <viz:size value="42.411766"></viz:size>
+        <viz:position x="495.11008" y="-1422.9127"></viz:position>
+        <viz:color r="223" g="191" b="164"></viz:color>
       </node>
       <node id="Elizabeth Vargas" label="Elizabeth Vargas">
         <attvalues>
@@ -2450,9 +2450,9 @@
           <attvalue for="country" value="Colombia"></attvalue>
           <attvalue for="affiliation" value="universidad nacional de Colombia"></attvalue>
         </attvalues>
-        <viz:size value="15.411765"></viz:size>
-        <viz:position x="528.97473" y="-180.88167"></viz:position>
-        <viz:color r="83" g="212" b="0"></viz:color>
+        <viz:size value="23.588236"></viz:size>
+        <viz:position x="402.58542" y="1013.9368"></viz:position>
+        <viz:color r="60" g="217" b="0"></viz:color>
       </node>
       <node id="Alicia Lozano Quiroz" label="Alicia Lozano Quiroz">
         <attvalues>
@@ -2461,9 +2461,9 @@
           <attvalue for="country" value="Mexico"></attvalue>
           <attvalue for="affiliation" value="Universidad Autónoma de Aguascalientes"></attvalue>
         </attvalues>
-        <viz:size value="10.941176"></viz:size>
-        <viz:position x="285.7761" y="-300.38013"></viz:position>
-        <viz:color r="255" g="117" b="38"></viz:color>
+        <viz:size value="16.058823"></viz:size>
+        <viz:position x="-226.15334" y="664.4813"></viz:position>
+        <viz:color r="0" g="215" b="255"></viz:color>
       </node>
       <node id="Mónica Carreño" label="Mónica Carreño">
         <attvalues>
@@ -2472,9 +2472,9 @@
           <attvalue for="country" value="Mexico"></attvalue>
           <attvalue for="affiliation" value="Universidad Autónoma de Baja California Sur"></attvalue>
         </attvalues>
-        <viz:size value="10.941176"></viz:size>
-        <viz:position x="145.55042" y="280.5546"></viz:position>
-        <viz:color r="255" g="117" b="38"></viz:color>
+        <viz:size value="16.058823"></viz:size>
+        <viz:position x="612.8312" y="174.71255"></viz:position>
+        <viz:color r="0" g="215" b="255"></viz:color>
       </node>
       <node id="Rosa Maria Galindo González" label="Rosa Maria Galindo González">
         <attvalues>
@@ -2483,9 +2483,9 @@
           <attvalue for="country" value="Mexico"></attvalue>
           <attvalue for="affiliation" value="Universidad Virtual de la Universidad de Guadalajara"></attvalue>
         </attvalues>
-        <viz:size value="6.470588"></viz:size>
-        <viz:position x="128.34215" y="139.78896"></viz:position>
-        <viz:color r="255" g="117" b="38"></viz:color>
+        <viz:size value="8.529411"></viz:size>
+        <viz:position x="209.89223" y="-14.947325"></viz:position>
+        <viz:color r="0" g="215" b="255"></viz:color>
       </node>
       <node id="Ana Paula Ribeiro" label="Ana Paula Ribeiro">
         <attvalues>
@@ -2494,9 +2494,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="Universidade Presbiteriana Mackenzie"></attvalue>
         </attvalues>
-        <viz:size value="6.470588"></viz:size>
-        <viz:position x="100.23589" y="-154.53777"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="8.529411"></viz:size>
+        <viz:position x="-68.96" y="229.91484"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="Salvador Oton" label="Salvador Oton">
         <attvalues>
@@ -2505,9 +2505,9 @@
           <attvalue for="country" value="Spain"></attvalue>
           <attvalue for="affiliation" value="Universidad de Alcala"></attvalue>
         </attvalues>
-        <viz:size value="6.470588"></viz:size>
-        <viz:position x="-201.33403" y="78.22893"></viz:position>
-        <viz:color r="255" g="99" b="155"></viz:color>
+        <viz:size value="8.529411"></viz:size>
+        <viz:position x="24.143148" y="198.50404"></viz:position>
+        <viz:color r="110" g="172" b="255"></viz:color>
       </node>
       <node id="Cristina Torres" label="Cristina Torres">
         <attvalues>
@@ -2516,9 +2516,9 @@
           <attvalue for="country" value="Chile"></attvalue>
           <attvalue for="affiliation" value="Universidad Austral de Chile"></attvalue>
         </attvalues>
-        <viz:size value="8.705883"></viz:size>
-        <viz:position x="-20.892178" y="-136.38185"></viz:position>
-        <viz:color r="0" g="100" b="112"></viz:color>
+        <viz:size value="12.294118"></viz:size>
+        <viz:position x="-351.25684" y="-178.9507"></viz:position>
+        <viz:color r="185" g="178" b="0"></viz:color>
       </node>
       <node id="Marisol Castiblanco" label="Marisol Castiblanco">
         <attvalues>
@@ -2527,9 +2527,9 @@
           <attvalue for="country" value="Colombia"></attvalue>
           <attvalue for="affiliation" value="Universidad Distrital Francisco JosÃ© de Caldas"></attvalue>
         </attvalues>
-        <viz:size value="8.705883"></viz:size>
-        <viz:position x="-278.8694" y="-15.070919"></viz:position>
-        <viz:color r="83" g="212" b="0"></viz:color>
+        <viz:size value="12.294118"></viz:size>
+        <viz:position x="431.89124" y="-259.461"></viz:position>
+        <viz:color r="60" g="217" b="0"></viz:color>
       </node>
       <node id="Rogério Avellar Cordeiro" label="Rogério Avellar Cordeiro">
         <attvalues>
@@ -2538,9 +2538,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="IFF"></attvalue>
         </attvalues>
-        <viz:size value="13.176471"></viz:size>
-        <viz:position x="347.23145" y="-400.11917"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="19.82353"></viz:size>
+        <viz:position x="-499.59537" y="-765.531"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="Leticia Lorier" label="Leticia Lorier">
         <attvalues>
@@ -2549,9 +2549,9 @@
           <attvalue for="country" value="Uruguay"></attvalue>
           <attvalue for="affiliation" value="Licenciatura en Ciencias de la Comunicación- UdelaR"></attvalue>
         </attvalues>
-        <viz:size value="15.411765"></viz:size>
-        <viz:position x="-503.20688" y="83.39526"></viz:position>
-        <viz:color r="223" g="193" b="173"></viz:color>
+        <viz:size value="23.588236"></viz:size>
+        <viz:position x="968.4858" y="175.29079"></viz:position>
+        <viz:color r="223" g="191" b="164"></viz:color>
       </node>
       <node id="Leandro Mota" label="Leandro Mota">
         <attvalues>
@@ -2560,9 +2560,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="UFABC"></attvalue>
         </attvalues>
-        <viz:size value="4.2352943"></viz:size>
-        <viz:position x="37.451935" y="112.199844"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="4.7647057"></viz:size>
+        <viz:position x="103.90217" y="55.448467"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="Nestor Dario Duque" label="Nestor Dario Duque">
         <attvalues>
@@ -2571,9 +2571,9 @@
           <attvalue for="country" value="Colombia"></attvalue>
           <attvalue for="affiliation" value="Universidad Nacional de Colombia- Manizales"></attvalue>
         </attvalues>
-        <viz:size value="13.176471"></viz:size>
-        <viz:position x="-499.31665" y="-102.289406"></viz:position>
-        <viz:color r="83" g="212" b="0"></viz:color>
+        <viz:size value="19.82353"></viz:size>
+        <viz:position x="-756.7764" y="-285.79507"></viz:position>
+        <viz:color r="60" g="217" b="0"></viz:color>
       </node>
       <node id="Sandra Bucarey" label="Sandra Bucarey">
         <attvalues>
@@ -2582,9 +2582,9 @@
           <attvalue for="country" value="Chile"></attvalue>
           <attvalue for="affiliation" value="Universidad Austral de Chile"></attvalue>
         </attvalues>
-        <viz:size value="10.941176"></viz:size>
-        <viz:position x="-426.55893" y="-128.96616"></viz:position>
-        <viz:color r="0" g="100" b="112"></viz:color>
+        <viz:size value="16.058823"></viz:size>
+        <viz:position x="322.3182" y="-562.848"></viz:position>
+        <viz:color r="185" g="178" b="0"></viz:color>
       </node>
       <node id="Lorena D´andrea" label="Lorena D´andrea">
         <attvalues>
@@ -2593,9 +2593,9 @@
           <attvalue for="country" value="Argentina"></attvalue>
           <attvalue for="affiliation" value="Universidad Nacional de Rosario"></attvalue>
         </attvalues>
-        <viz:size value="4.2352943"></viz:size>
-        <viz:position x="17.269339" y="83.36674"></viz:position>
-        <viz:color r="0" g="218" b="255"></viz:color>
+        <viz:size value="4.7647057"></viz:size>
+        <viz:position x="55.62782" y="-58.518173"></viz:position>
+        <viz:color r="255" g="139" b="0"></viz:color>
       </node>
       <node id="Aldo Iñiguez" label="Aldo Iñiguez">
         <attvalues>
@@ -2604,9 +2604,9 @@
           <attvalue for="country" value="Argentina"></attvalue>
           <attvalue for="affiliation" value="Universidad Nacional de Rosario"></attvalue>
         </attvalues>
-        <viz:size value="26.588236"></viz:size>
-        <viz:position x="133.3053" y="820.34344"></viz:position>
-        <viz:color r="0" g="218" b="255"></viz:color>
+        <viz:size value="42.411766"></viz:size>
+        <viz:position x="695.9456" y="-1342.7388"></viz:position>
+        <viz:color r="255" g="139" b="0"></viz:color>
       </node>
       <node id="Márcia Moraes" label="Márcia Moraes">
         <attvalues>
@@ -2615,9 +2615,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="PUCRS"></attvalue>
         </attvalues>
-        <viz:size value="10.941176"></viz:size>
-        <viz:position x="-289.11545" y="203.76027"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="16.058823"></viz:size>
+        <viz:position x="646.2533" y="-245.23961"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="Rubén Darío Vargas Julio" label="Rubén Darío Vargas Julio">
         <attvalues>
@@ -2626,9 +2626,9 @@
           <attvalue for="country" value="Colombia"></attvalue>
           <attvalue for="affiliation" value="Universidad Pedagógica y Tecnológica de Colombia"></attvalue>
         </attvalues>
-        <viz:size value="10.941176"></viz:size>
-        <viz:position x="-237.26712" y="144.1347"></viz:position>
-        <viz:color r="83" g="212" b="0"></viz:color>
+        <viz:size value="16.058823"></viz:size>
+        <viz:position x="-108.23718" y="-781.10376"></viz:position>
+        <viz:color r="60" g="217" b="0"></viz:color>
       </node>
       <node id="Christiano Avila" label="Christiano Avila">
         <attvalues>
@@ -2637,9 +2637,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="UFPEL"></attvalue>
         </attvalues>
-        <viz:size value="17.64706"></viz:size>
-        <viz:position x="413.53094" y="436.6077"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="27.352942"></viz:size>
+        <viz:position x="805.56165" y="700.37665"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="José Valdeni de Lima" label="José Valdeni de Lima">
         <attvalues>
@@ -2648,9 +2648,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="Universidade Federal do Rio Grande do Sul"></attvalue>
         </attvalues>
-        <viz:size value="8.705883"></viz:size>
-        <viz:position x="184.6117" y="-170.31413"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="12.294118"></viz:size>
+        <viz:position x="168.75403" y="306.40567"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="Leyva Amado" label="Leyva Amado">
         <attvalues>
@@ -2659,9 +2659,9 @@
           <attvalue for="country" value="Mexico"></attvalue>
           <attvalue for="affiliation" value="Universidad Autónoma de Baja California Sur"></attvalue>
         </attvalues>
-        <viz:size value="10.941176"></viz:size>
-        <viz:position x="58.926212" y="-438.47992"></viz:position>
-        <viz:color r="255" g="117" b="38"></viz:color>
+        <viz:size value="16.058823"></viz:size>
+        <viz:position x="165.90355" y="-688.2857"></viz:position>
+        <viz:color r="0" g="215" b="255"></viz:color>
       </node>
       <node id="Félix Patlán Balandrán" label="Félix Patlán Balandrán">
         <attvalues>
@@ -2670,9 +2670,9 @@
           <attvalue for="country" value="Mexico"></attvalue>
           <attvalue for="affiliation" value="Universidad Autónoma de Aguascalientes"></attvalue>
         </attvalues>
-        <viz:size value="8.705883"></viz:size>
-        <viz:position x="247.25502" y="44.50698"></viz:position>
-        <viz:color r="255" g="117" b="38"></viz:color>
+        <viz:size value="12.294118"></viz:size>
+        <viz:position x="-9.114156" y="608.20544"></viz:position>
+        <viz:color r="0" g="215" b="255"></viz:color>
       </node>
       <node id="Alejandro Leyva" label="Alejandro Leyva">
         <attvalues>
@@ -2681,9 +2681,9 @@
           <attvalue for="country" value="Mexico"></attvalue>
           <attvalue for="affiliation" value="Universidad Autónoma de Baja California Sur"></attvalue>
         </attvalues>
-        <viz:size value="10.941176"></viz:size>
-        <viz:position x="-10.598266" y="453.61487"></viz:position>
-        <viz:color r="255" g="117" b="38"></viz:color>
+        <viz:size value="16.058823"></viz:size>
+        <viz:position x="684.805" y="86.33866"></viz:position>
+        <viz:color r="0" g="215" b="255"></viz:color>
       </node>
       <node id="Edjanleila Siqueira" label="Edjanleila Siqueira">
         <attvalues>
@@ -2692,9 +2692,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="UFRPE"></attvalue>
         </attvalues>
-        <viz:size value="10.941176"></viz:size>
-        <viz:position x="285.94977" y="247.47513"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="16.058823"></viz:size>
+        <viz:position x="-621.0979" y="-420.98117"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="Patricia Pitter Mania" label="Patricia Pitter Mania">
         <attvalues>
@@ -2703,9 +2703,9 @@
           <attvalue for="country" value="Venezuela"></attvalue>
           <attvalue for="affiliation" value="Universidad Central de Venezuela"></attvalue>
         </attvalues>
-        <viz:size value="4.2352943"></viz:size>
-        <viz:position x="18.365145" y="138.07925"></viz:position>
-        <viz:color r="215" g="171" b="0"></viz:color>
+        <viz:size value="4.7647057"></viz:size>
+        <viz:position x="215.33122" y="66.3188"></viz:position>
+        <viz:color r="0" g="104" b="116"></viz:color>
       </node>
       <node id="Ramón Rosales" label="Ramón Rosales">
         <attvalues>
@@ -2714,9 +2714,9 @@
           <attvalue for="country" value="Mexico"></attvalue>
           <attvalue for="affiliation" value="Universidad Autónoma de Aguascalientes"></attvalue>
         </attvalues>
-        <viz:size value="10.941176"></viz:size>
-        <viz:position x="-394.8931" y="-235.62634"></viz:position>
-        <viz:color r="255" g="117" b="38"></viz:color>
+        <viz:size value="16.058823"></viz:size>
+        <viz:position x="407.56458" y="-592.2408"></viz:position>
+        <viz:color r="0" g="215" b="255"></viz:color>
       </node>
       <node id="Maximiliano Reidel" label="Maximiliano Reidel">
         <attvalues>
@@ -2725,9 +2725,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="IFRS - Campus Bento Gonçalves"></attvalue>
         </attvalues>
-        <viz:size value="13.176471"></viz:size>
-        <viz:position x="571.03253" y="54.511646"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="19.82353"></viz:size>
+        <viz:position x="777.81573" y="-425.5864"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="Gabriel Budiño" label="Gabriel Budiño">
         <attvalues>
@@ -2736,9 +2736,9 @@
           <attvalue for="country" value="Uruguay"></attvalue>
           <attvalue for="affiliation" value="Facultad de Ciencias Económicas y de Administración"></attvalue>
         </attvalues>
-        <viz:size value="15.411765"></viz:size>
-        <viz:position x="416.47708" y="245.65645"></viz:position>
-        <viz:color r="223" g="193" b="173"></viz:color>
+        <viz:size value="23.588236"></viz:size>
+        <viz:position x="1004.62634" y="112.42814"></viz:position>
+        <viz:color r="223" g="191" b="164"></viz:color>
       </node>
       <node id="Sonia Patricia Carreño Moreno" label="Sonia Patricia Carreño Moreno">
         <attvalues>
@@ -2747,9 +2747,9 @@
           <attvalue for="country" value="Colombia"></attvalue>
           <attvalue for="affiliation" value="Universidad Nacional de Colombia"></attvalue>
         </attvalues>
-        <viz:size value="15.411765"></viz:size>
-        <viz:position x="50.674103" y="524.66016"></viz:position>
-        <viz:color r="83" g="212" b="0"></viz:color>
+        <viz:size value="23.588236"></viz:size>
+        <viz:position x="417.53763" y="873.7121"></viz:position>
+        <viz:color r="60" g="217" b="0"></viz:color>
       </node>
       <node id="Estrada Italia" label="Estrada Italia">
         <attvalues>
@@ -2758,9 +2758,9 @@
           <attvalue for="country" value="Mexico"></attvalue>
           <attvalue for="affiliation" value="Universidad Autónoma de Baja California Sur"></attvalue>
         </attvalues>
-        <viz:size value="10.941176"></viz:size>
-        <viz:position x="-277.5902" y="-207.73598"></viz:position>
-        <viz:color r="255" g="117" b="38"></viz:color>
+        <viz:size value="16.058823"></viz:size>
+        <viz:position x="117.190605" y="-725.6027"></viz:position>
+        <viz:color r="0" g="215" b="255"></viz:color>
       </node>
       <node id="Silvia Baldiris" label="Silvia Baldiris">
         <attvalues>
@@ -2769,9 +2769,9 @@
           <attvalue for="country" value="Spain"></attvalue>
           <attvalue for="affiliation" value="Universitat de Girona"></attvalue>
         </attvalues>
-        <viz:size value="19.882353"></viz:size>
-        <viz:position x="-182.20325" y="623.4871"></viz:position>
-        <viz:color r="255" g="99" b="155"></viz:color>
+        <viz:size value="31.117647"></viz:size>
+        <viz:position x="-1045.6871" y="-370.99777"></viz:position>
+        <viz:color r="110" g="172" b="255"></viz:color>
       </node>
       <node id="Daniel Diaz" label="Daniel Diaz">
         <attvalues>
@@ -2780,9 +2780,9 @@
           <attvalue for="country" value="Argentina"></attvalue>
           <attvalue for="affiliation" value="LISI UNSJ"></attvalue>
         </attvalues>
-        <viz:size value="8.705883"></viz:size>
-        <viz:position x="-96.559235" y="334.57153"></viz:position>
-        <viz:color r="0" g="218" b="255"></viz:color>
+        <viz:size value="12.294118"></viz:size>
+        <viz:position x="165.27814" y="-339.56006"></viz:position>
+        <viz:color r="255" g="139" b="0"></viz:color>
       </node>
       <node id="Bruno Panerai Velloso" label="Bruno Panerai Velloso">
         <attvalues>
@@ -2791,9 +2791,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="Instituto Federal de Ciência e Tecnologia de Santa Catarina"></attvalue>
         </attvalues>
-        <viz:size value="4.2352943"></viz:size>
-        <viz:position x="-78.08637" y="66.19721"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="4.7647057"></viz:size>
+        <viz:position x="32.81278" y="51.244896"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="Mirian Borja Orozco" label="Mirian Borja Orozco">
         <attvalues>
@@ -2802,9 +2802,9 @@
           <attvalue for="country" value="Colombia"></attvalue>
           <attvalue for="affiliation" value="Universidad Distrital Francisco JosÃ© de Caldas"></attvalue>
         </attvalues>
-        <viz:size value="10.941176"></viz:size>
-        <viz:position x="250.7321" y="433.5932"></viz:position>
-        <viz:color r="83" g="212" b="0"></viz:color>
+        <viz:size value="16.058823"></viz:size>
+        <viz:position x="-270.9306" y="-712.49475"></viz:position>
+        <viz:color r="60" g="217" b="0"></viz:color>
       </node>
       <node id="Vitor Secretti Bertoncello" label="Vitor Secretti Bertoncello">
         <attvalues>
@@ -2813,9 +2813,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="Instituto Federal Rio Grande do Sul - Canoas"></attvalue>
         </attvalues>
-        <viz:size value="17.64706"></viz:size>
-        <viz:position x="-519.00006" y="338.4623"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="27.352942"></viz:size>
+        <viz:position x="-671.45264" y="941.3904"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="Fernando R. Stahnke" label="Fernando R. Stahnke">
         <attvalues>
@@ -2824,9 +2824,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="I3C - Instituto Curiosidade, Ciência e Criação"></attvalue>
         </attvalues>
-        <viz:size value="4.2352943"></viz:size>
-        <viz:position x="-50.90567" y="102.9752"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="4.7647057"></viz:size>
+        <viz:position x="-53.844677" y="84.74267"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="Guillaume Serandour" label="Guillaume Serandour">
         <attvalues>
@@ -2835,9 +2835,9 @@
           <attvalue for="country" value="Chile"></attvalue>
           <attvalue for="affiliation" value="Universidad Austral de Chile"></attvalue>
         </attvalues>
-        <viz:size value="8.705883"></viz:size>
-        <viz:position x="45.53156" y="199.33527"></viz:position>
-        <viz:color r="0" g="100" b="112"></viz:color>
+        <viz:size value="12.294118"></viz:size>
+        <viz:position x="-290.3193" y="-246.42102"></viz:position>
+        <viz:color r="185" g="178" b="0"></viz:color>
       </node>
       <node id="Ivan Peredo" label="Ivan Peredo">
         <attvalues>
@@ -2846,9 +2846,9 @@
           <attvalue for="country" value="Mexico"></attvalue>
           <attvalue for="affiliation" value="Universidad Politécnica de Querétaro"></attvalue>
         </attvalues>
-        <viz:size value="4.2352943"></viz:size>
-        <viz:position x="-50.635513" y="-44.484943"></viz:position>
-        <viz:color r="255" g="117" b="38"></viz:color>
+        <viz:size value="4.7647057"></viz:size>
+        <viz:position x="-90.75701" y="-81.43277"></viz:position>
+        <viz:color r="0" g="215" b="255"></viz:color>
       </node>
       <node id="Alice Theresinha Cybis Pereira" label="Alice Theresinha Cybis Pereira">
         <attvalues>
@@ -2857,9 +2857,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="Universidade Federal de Santa Catarina"></attvalue>
         </attvalues>
-        <viz:size value="4.2352943"></viz:size>
-        <viz:position x="-0.08072543" y="58.816326"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="4.7647057"></viz:size>
+        <viz:position x="43.239223" y="23.698294"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="Joaquin Paronzini" label="Joaquin Paronzini">
         <attvalues>
@@ -2868,9 +2868,9 @@
           <attvalue for="country" value="Argentina"></attvalue>
           <attvalue for="affiliation" value="Universidad Nacional de Rosario"></attvalue>
         </attvalues>
-        <viz:size value="26.588236"></viz:size>
-        <viz:position x="48.993977" y="-719.68384"></viz:position>
-        <viz:color r="0" g="218" b="255"></viz:color>
+        <viz:size value="42.411766"></viz:size>
+        <viz:position x="378.0564" y="-1370.0013"></viz:position>
+        <viz:color r="255" g="139" b="0"></viz:color>
       </node>
       <node id="Cinthya Valerio Alvarez" label="Cinthya Valerio Alvarez">
         <attvalues>
@@ -2879,9 +2879,9 @@
           <attvalue for="country" value="Costa Rica"></attvalue>
           <attvalue for="affiliation" value="UNED"></attvalue>
         </attvalues>
-        <viz:size value="8.705883"></viz:size>
-        <viz:position x="315.6778" y="88.17697"></viz:position>
-        <viz:color r="84" g="180" b="255"></viz:color>
+        <viz:size value="12.294118"></viz:size>
+        <viz:position x="-330.80615" y="-372.09793"></viz:position>
+        <viz:color r="255" g="102" b="177"></viz:color>
       </node>
       <node id="Anita Fernandes" label="Anita Fernandes">
         <attvalues>
@@ -2890,9 +2890,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="UNIVALI"></attvalue>
         </attvalues>
-        <viz:size value="15.411765"></viz:size>
-        <viz:position x="554.8551" y="-370.6948"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="23.588236"></viz:size>
+        <viz:position x="854.65717" y="-458.93777"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="Francisca Adriana Valenzuela" label="Francisca Adriana Valenzuela">
         <attvalues>
@@ -2901,9 +2901,9 @@
           <attvalue for="country" value="Argentina"></attvalue>
           <attvalue for="affiliation" value="Universidad Nacional de San Juan"></attvalue>
         </attvalues>
-        <viz:size value="6.470588"></viz:size>
-        <viz:position x="22.463749" y="-217.67784"></viz:position>
-        <viz:color r="0" g="218" b="255"></viz:color>
+        <viz:size value="8.529411"></viz:size>
+        <viz:position x="-324.774" y="156.65369"></viz:position>
+        <viz:color r="255" g="139" b="0"></viz:color>
       </node>
       <node id="Natalia Castaño Ramirez" label="Natalia Castaño Ramirez">
         <attvalues>
@@ -2912,9 +2912,9 @@
           <attvalue for="country" value="Colombia"></attvalue>
           <attvalue for="affiliation" value="Universidad Nacional de Colombia - Sede Manizales"></attvalue>
         </attvalues>
-        <viz:size value="10.941176"></viz:size>
-        <viz:position x="-328.351" y="-220.71358"></viz:position>
-        <viz:color r="83" g="212" b="0"></viz:color>
+        <viz:size value="16.058823"></viz:size>
+        <viz:position x="-762.4634" y="-50.57322"></viz:position>
+        <viz:color r="60" g="217" b="0"></viz:color>
       </node>
       <node id="Rosana Wagner" label="Rosana Wagner">
         <attvalues>
@@ -2923,9 +2923,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="RS"></attvalue>
         </attvalues>
-        <viz:size value="8.705883"></viz:size>
-        <viz:position x="-208.13805" y="16.030485"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="12.294118"></viz:size>
+        <viz:position x="152.07289" y="354.4724"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="Yenny García" label="Yenny García">
         <attvalues>
@@ -2934,9 +2934,9 @@
           <attvalue for="country" value="Colombia"></attvalue>
           <attvalue for="affiliation" value="Universidad Nacional Abierta y a Distancia, UNAD"></attvalue>
         </attvalues>
-        <viz:size value="4.2352943"></viz:size>
-        <viz:position x="31.262299" y="-83.35585"></viz:position>
-        <viz:color r="83" g="212" b="0"></viz:color>
+        <viz:size value="4.7647057"></viz:size>
+        <viz:position x="-63.11108" y="-41.655376"></viz:position>
+        <viz:color r="60" g="217" b="0"></viz:color>
       </node>
       <node id="Cesar Collazos" label="Cesar Collazos">
         <attvalues>
@@ -2945,9 +2945,9 @@
           <attvalue for="country" value="Colombia"></attvalue>
           <attvalue for="affiliation" value="Universidad de Cauca"></attvalue>
         </attvalues>
-        <viz:size value="13.176471"></viz:size>
-        <viz:position x="212.83588" y="-417.55667"></viz:position>
-        <viz:color r="83" g="212" b="0"></viz:color>
+        <viz:size value="19.82353"></viz:size>
+        <viz:position x="-438.88992" y="394.9429"></viz:position>
+        <viz:color r="60" g="217" b="0"></viz:color>
       </node>
       <node id="Jose Luis Barturen Larrea" label="Jose Luis Barturen Larrea">
         <attvalues>
@@ -2956,9 +2956,9 @@
           <attvalue for="country" value="Peru"></attvalue>
           <attvalue for="affiliation" value="Pontificia Universidad CatÃ³lica del PerÃº"></attvalue>
         </attvalues>
-        <viz:size value="4.2352943"></viz:size>
-        <viz:position x="71.073006" y="110.338486"></viz:position>
-        <viz:color r="0" g="202" b="115"></viz:color>
+        <viz:size value="4.7647057"></viz:size>
+        <viz:position x="77.574844" y="-14.15234"></viz:position>
+        <viz:color r="0" g="180" b="92"></viz:color>
       </node>
       <node id="Fernando Irigaray" label="Fernando Irigaray">
         <attvalues>
@@ -2967,9 +2967,9 @@
           <attvalue for="country" value="Argentina"></attvalue>
           <attvalue for="affiliation" value="Universidad Nacional de Rosario"></attvalue>
         </attvalues>
-        <viz:size value="26.588236"></viz:size>
-        <viz:position x="-849.0188" y="-143.88295"></viz:position>
-        <viz:color r="0" g="218" b="255"></viz:color>
+        <viz:size value="42.411766"></viz:size>
+        <viz:position x="572.06824" y="-1134.5166"></viz:position>
+        <viz:color r="255" g="139" b="0"></viz:color>
       </node>
       <node id="Alexander Jimenez" label="Alexander Jimenez">
         <attvalues>
@@ -2978,9 +2978,9 @@
           <attvalue for="country" value="Colombia"></attvalue>
           <attvalue for="affiliation" value="Escuela Tecnologica Instituto Tecnico Central"></attvalue>
         </attvalues>
-        <viz:size value="4.2352943"></viz:size>
-        <viz:position x="74.56844" y="48.39204"></viz:position>
-        <viz:color r="83" g="212" b="0"></viz:color>
+        <viz:size value="4.7647057"></viz:size>
+        <viz:position x="-116.82095" y="-13.529913"></viz:position>
+        <viz:color r="60" g="217" b="0"></viz:color>
       </node>
       <node id="Ricardo Neftalí Ramírez Osorio" label="Ricardo Neftalí Ramírez Osorio">
         <attvalues>
@@ -2989,9 +2989,9 @@
           <attvalue for="country" value="Colombia"></attvalue>
           <attvalue for="affiliation" value="Universidad Nacional de Colombia"></attvalue>
         </attvalues>
-        <viz:size value="2.0"></viz:size>
-        <viz:position x="-22.218079" y="-4.7895126"></viz:position>
-        <viz:color r="83" g="212" b="0"></viz:color>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-5.4363976" y="2.4165368"></viz:position>
+        <viz:color r="60" g="217" b="0"></viz:color>
       </node>
       <node id="Diego Sabogal Rojas" label="Diego Sabogal Rojas">
         <attvalues>
@@ -3000,9 +3000,9 @@
           <attvalue for="country" value="Colombia"></attvalue>
           <attvalue for="affiliation" value="Universidad Nacional de Colombia"></attvalue>
         </attvalues>
-        <viz:size value="6.470588"></viz:size>
-        <viz:position x="178.13196" y="67.45429"></viz:position>
-        <viz:color r="83" g="212" b="0"></viz:color>
+        <viz:size value="8.529411"></viz:size>
+        <viz:position x="352.84836" y="417.65854"></viz:position>
+        <viz:color r="60" g="217" b="0"></viz:color>
       </node>
       <node id="Saulo Pereira" label="Saulo Pereira">
         <attvalues>
@@ -3011,9 +3011,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="UFABC"></attvalue>
         </attvalues>
-        <viz:size value="4.2352943"></viz:size>
-        <viz:position x="-2.7091904" y="111.904045"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="4.7647057"></viz:size>
+        <viz:position x="120.04063" y="8.804624"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="Renan Oliveira" label="Renan Oliveira">
         <attvalues>
@@ -3022,9 +3022,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="UFRPE"></attvalue>
         </attvalues>
-        <viz:size value="10.941176"></viz:size>
-        <viz:position x="139.74855" y="-356.66455"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="16.058823"></viz:size>
+        <viz:position x="-544.81824" y="-441.7065"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="Mónica Sarobe" label="Mónica Sarobe">
         <attvalues>
@@ -3033,9 +3033,9 @@
           <attvalue for="country" value="Argentina"></attvalue>
           <attvalue for="affiliation" value="UNNOBA"></attvalue>
         </attvalues>
-        <viz:size value="8.705883"></viz:size>
-        <viz:position x="34.434345" y="260.3702"></viz:position>
-        <viz:color r="0" g="218" b="255"></viz:color>
+        <viz:size value="12.294118"></viz:size>
+        <viz:position x="20.159946" y="-474.10135"></viz:position>
+        <viz:color r="255" g="139" b="0"></viz:color>
       </node>
       <node id="Yoshira Rodríguez Bernal" label="Yoshira Rodríguez Bernal">
         <attvalues>
@@ -3044,9 +3044,9 @@
           <attvalue for="country" value="Colombia"></attvalue>
           <attvalue for="affiliation" value="Fundación Universitaria Konrad Lorenz"></attvalue>
         </attvalues>
-        <viz:size value="2.0"></viz:size>
-        <viz:position x="36.997265" y="-11.936371"></viz:position>
-        <viz:color r="83" g="212" b="0"></viz:color>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="15.125034" y="16.541592"></viz:position>
+        <viz:color r="60" g="217" b="0"></viz:color>
       </node>
       <node id="Manuel Montero" label="Manuel Montero">
         <attvalues>
@@ -3055,9 +3055,9 @@
           <attvalue for="country" value="Colombia"></attvalue>
           <attvalue for="affiliation" value="Escuela Tecnologica Instituto Tecnico Central"></attvalue>
         </attvalues>
-        <viz:size value="4.2352943"></viz:size>
-        <viz:position x="93.90508" y="24.955687"></viz:position>
-        <viz:color r="83" g="212" b="0"></viz:color>
+        <viz:size value="4.7647057"></viz:size>
+        <viz:position x="-104.786766" y="11.117933"></viz:position>
+        <viz:color r="60" g="217" b="0"></viz:color>
       </node>
       <node id="Gabriel Ramiro Muñoz Samboní" label="Gabriel Ramiro Muñoz Samboní">
         <attvalues>
@@ -3066,9 +3066,9 @@
           <attvalue for="country" value="Colombia"></attvalue>
           <attvalue for="affiliation" value="Universidad del Cauca"></attvalue>
         </attvalues>
-        <viz:size value="4.2352943"></viz:size>
-        <viz:position x="30.899979" y="15.099695"></viz:position>
-        <viz:color r="83" g="212" b="0"></viz:color>
+        <viz:size value="4.7647057"></viz:size>
+        <viz:position x="-75.97114" y="42.046925"></viz:position>
+        <viz:color r="60" g="217" b="0"></viz:color>
       </node>
       <node id="Cinthia Reyes" label="Cinthia Reyes">
         <attvalues>
@@ -3077,9 +3077,9 @@
           <attvalue for="country" value="Mexico"></attvalue>
           <attvalue for="affiliation" value="Universidad de Guadalajara"></attvalue>
         </attvalues>
-        <viz:size value="6.470588"></viz:size>
-        <viz:position x="150.03848" y="-30.70476"></viz:position>
-        <viz:color r="255" g="117" b="38"></viz:color>
+        <viz:size value="8.529411"></viz:size>
+        <viz:position x="149.64194" y="-92.8999"></viz:position>
+        <viz:color r="0" g="215" b="255"></viz:color>
       </node>
       <node id="Edison Camilo Marín Álvarez" label="Edison Camilo Marín Álvarez">
         <attvalues>
@@ -3088,9 +3088,9 @@
           <attvalue for="country" value="Colombia"></attvalue>
           <attvalue for="affiliation" value="universidad nacional de colombia"></attvalue>
         </attvalues>
-        <viz:size value="2.0"></viz:size>
-        <viz:position x="-17.691156" y="20.518675"></viz:position>
-        <viz:color r="83" g="212" b="0"></viz:color>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-29.760433" y="8.154195"></viz:position>
+        <viz:color r="60" g="217" b="0"></viz:color>
       </node>
       <node id="Sandra Piovesan" label="Sandra Piovesan">
         <attvalues>
@@ -3099,9 +3099,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="Universidade Federal do Rio Grande do Sul"></attvalue>
         </attvalues>
-        <viz:size value="8.705883"></viz:size>
-        <viz:position x="-138.98195" y="-216.38718"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="12.294118"></viz:size>
+        <viz:position x="205.32457" y="360.15588"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="Genghis Rios Kruger" label="Genghis Rios Kruger">
         <attvalues>
@@ -3110,9 +3110,9 @@
           <attvalue for="country" value="Peru"></attvalue>
           <attvalue for="affiliation" value="Pontificia Universidad CatÃ³lica del PerÃº"></attvalue>
         </attvalues>
-        <viz:size value="4.2352943"></viz:size>
-        <viz:position x="107.38111" y="109.19621"></viz:position>
-        <viz:color r="0" g="202" b="115"></viz:color>
+        <viz:size value="4.7647057"></viz:size>
+        <viz:position x="78.40701" y="15.178862"></viz:position>
+        <viz:color r="0" g="180" b="92"></viz:color>
       </node>
       <node id="Jorge Maldonado" label="Jorge Maldonado">
         <attvalues>
@@ -3121,9 +3121,9 @@
           <attvalue for="country" value="Ecuador"></attvalue>
           <attvalue for="affiliation" value="Universidad de Cuenca"></attvalue>
         </attvalues>
-        <viz:size value="6.470588"></viz:size>
-        <viz:position x="-134.29901" y="-111.62732"></viz:position>
-        <viz:color r="140" g="80" b="136"></viz:color>
+        <viz:size value="8.529411"></viz:size>
+        <viz:position x="132.17223" y="143.13475"></viz:position>
+        <viz:color r="0" g="211" b="194"></viz:color>
       </node>
       <node id="Antonio Silva Sprock" label="Antonio Silva Sprock">
         <attvalues>
@@ -3132,9 +3132,9 @@
           <attvalue for="country" value="Venezuela"></attvalue>
           <attvalue for="affiliation" value="Universidad Central de Venezuela"></attvalue>
         </attvalues>
-        <viz:size value="31.058825"></viz:size>
-        <viz:position x="657.3792" y="372.91144"></viz:position>
-        <viz:color r="215" g="171" b="0"></viz:color>
+        <viz:size value="49.941177"></viz:size>
+        <viz:position x="-344.16885" y="839.17474"></viz:position>
+        <viz:color r="0" g="104" b="116"></viz:color>
       </node>
       <node id="Mildred Acuna Sossa" label="Mildred Acuna Sossa">
         <attvalues>
@@ -3143,9 +3143,9 @@
           <attvalue for="country" value="Costa Rica"></attvalue>
           <attvalue for="affiliation" value="UNED"></attvalue>
         </attvalues>
-        <viz:size value="10.941176"></viz:size>
-        <viz:position x="428.11588" y="126.01195"></viz:position>
-        <viz:color r="84" g="180" b="255"></viz:color>
+        <viz:size value="16.058823"></viz:size>
+        <viz:position x="-387.3268" y="-426.47964"></viz:position>
+        <viz:color r="255" g="102" b="177"></viz:color>
       </node>
       <node id="Xavier Ochoa" label="Xavier Ochoa">
         <attvalues>
@@ -3154,9 +3154,9 @@
           <attvalue for="country" value="Ecuador"></attvalue>
           <attvalue for="affiliation" value="ESPOL"></attvalue>
         </attvalues>
-        <viz:size value="6.470588"></viz:size>
-        <viz:position x="-186.03227" y="-24.876776"></viz:position>
-        <viz:color r="140" g="80" b="136"></viz:color>
+        <viz:size value="8.529411"></viz:size>
+        <viz:position x="17.416752" y="-255.15414"></viz:position>
+        <viz:color r="0" g="211" b="194"></viz:color>
       </node>
       <node id="Valentina Tabares Morales" label="Valentina Tabares Morales">
         <attvalues>
@@ -3165,9 +3165,9 @@
           <attvalue for="country" value="Colombia"></attvalue>
           <attvalue for="affiliation" value="Universidad Nacional de Colombia"></attvalue>
         </attvalues>
-        <viz:size value="22.11765"></viz:size>
-        <viz:position x="690.81494" y="-227.39272"></viz:position>
-        <viz:color r="83" g="212" b="0"></viz:color>
+        <viz:size value="34.882355"></viz:size>
+        <viz:position x="-947.33057" y="5.9937463"></viz:position>
+        <viz:color r="60" g="217" b="0"></viz:color>
       </node>
       <node id="Francisco Javier Moreno Mora" label="Francisco Javier Moreno Mora">
         <attvalues>
@@ -3176,9 +3176,9 @@
           <attvalue for="country" value="Colombia"></attvalue>
           <attvalue for="affiliation" value="Universidad Nacional de Colombia"></attvalue>
         </attvalues>
-        <viz:size value="6.470588"></viz:size>
-        <viz:position x="28.359423" y="-150.9625"></viz:position>
-        <viz:color r="83" g="212" b="0"></viz:color>
+        <viz:size value="8.529411"></viz:size>
+        <viz:position x="-237.29582" y="17.420712"></viz:position>
+        <viz:color r="60" g="217" b="0"></viz:color>
       </node>
       <node id="Reynaldo Alonso Reyes" label="Reynaldo Alonso Reyes">
         <attvalues>
@@ -3187,9 +3187,9 @@
           <attvalue for="country" value="Cuba"></attvalue>
           <attvalue for="affiliation" value="Ministerio de Educación Superior"></attvalue>
         </attvalues>
-        <viz:size value="4.2352943"></viz:size>
-        <viz:position x="-115.45577" y="58.642757"></viz:position>
-        <viz:color r="77" g="107" b="28"></viz:color>
+        <viz:size value="4.7647057"></viz:size>
+        <viz:position x="66.76947" y="-116.40904"></viz:position>
+        <viz:color r="134" g="67" b="107"></viz:color>
       </node>
       <node id="Paola Amadeo" label="Paola Amadeo">
         <attvalues>
@@ -3198,9 +3198,9 @@
           <attvalue for="country" value="Argentina"></attvalue>
           <attvalue for="affiliation" value="LINTI - Facultad de Informática - UNLP"></attvalue>
         </attvalues>
-        <viz:size value="13.176471"></viz:size>
-        <viz:position x="191.80962" y="530.52844"></viz:position>
-        <viz:color r="0" g="218" b="255"></viz:color>
+        <viz:size value="19.82353"></viz:size>
+        <viz:position x="253.37354" y="753.4648"></viz:position>
+        <viz:color r="255" g="139" b="0"></viz:color>
       </node>
       <node id="Patrícia Nogueira Hubler" label="Patrícia Nogueira Hubler">
         <attvalues>
@@ -3209,9 +3209,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="Instituto Federal Rio Grande do Sul - Canoas"></attvalue>
         </attvalues>
-        <viz:size value="17.64706"></viz:size>
-        <viz:position x="-653.45105" y="21.559862"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="27.352942"></viz:size>
+        <viz:position x="-705.9273" y="1021.503"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="Marta Rosecler Bez" label="Marta Rosecler Bez">
         <attvalues>
@@ -3220,9 +3220,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="Universidade Feevale"></attvalue>
         </attvalues>
-        <viz:size value="4.2352943"></viz:size>
-        <viz:position x="-18.636984" y="84.6076"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="4.7647057"></viz:size>
+        <viz:position x="-37.04283" y="62.08183"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="Carreño Miriam" label="Carreño Miriam">
         <attvalues>
@@ -3231,9 +3231,9 @@
           <attvalue for="country" value="Mexico"></attvalue>
           <attvalue for="affiliation" value="Universidad Autónoma de Baja California Sur"></attvalue>
         </attvalues>
-        <viz:size value="10.941176"></viz:size>
-        <viz:position x="-154.80005" y="-378.527"></viz:position>
-        <viz:color r="255" g="117" b="38"></viz:color>
+        <viz:size value="16.058823"></viz:size>
+        <viz:position x="84.03121" y="-640.25385"></viz:position>
+        <viz:color r="0" g="215" b="255"></viz:color>
       </node>
       <node id="Gutierrez De Mesa Jose Antonio" label="Gutierrez De Mesa Jose Antonio">
         <attvalues>
@@ -3242,9 +3242,9 @@
           <attvalue for="country" value="Spain"></attvalue>
           <attvalue for="affiliation" value="University of Alcala"></attvalue>
         </attvalues>
-        <viz:size value="6.470588"></viz:size>
-        <viz:position x="-141.318" y="135.088"></viz:position>
-        <viz:color r="255" g="99" b="155"></viz:color>
+        <viz:size value="8.529411"></viz:size>
+        <viz:position x="26.254997" y="240.88211"></viz:position>
+        <viz:color r="110" g="172" b="255"></viz:color>
       </node>
       <node id="John Jairo Páez Rodríguez" label="John Jairo Páez Rodríguez">
         <attvalues>
@@ -3253,9 +3253,9 @@
           <attvalue for="country" value="Colombia"></attvalue>
           <attvalue for="affiliation" value="Pontificia Universidad Javeriana"></attvalue>
         </attvalues>
-        <viz:size value="4.2352943"></viz:size>
-        <viz:position x="83.324036" y="-5.7904215"></viz:position>
-        <viz:color r="83" g="212" b="0"></viz:color>
+        <viz:size value="4.7647057"></viz:size>
+        <viz:position x="-101.69632" y="54.719955"></viz:position>
+        <viz:color r="60" g="217" b="0"></viz:color>
       </node>
       <node id="Kharla Jinned Ruiz Carmona" label="Kharla Jinned Ruiz Carmona">
         <attvalues>
@@ -3264,9 +3264,9 @@
           <attvalue for="country" value="Colombia"></attvalue>
           <attvalue for="affiliation" value="Universidad Nacional de Colombia - Sede Manizales"></attvalue>
         </attvalues>
-        <viz:size value="10.941176"></viz:size>
-        <viz:position x="-282.21564" y="-363.17804"></viz:position>
-        <viz:color r="83" g="212" b="0"></viz:color>
+        <viz:size value="16.058823"></viz:size>
+        <viz:position x="-824.43353" y="-50.195034"></viz:position>
+        <viz:color r="60" g="217" b="0"></viz:color>
       </node>
       <node id="Sergio Cardona" label="Sergio Cardona">
         <attvalues>
@@ -3275,9 +3275,9 @@
           <attvalue for="country" value="Colombia"></attvalue>
           <attvalue for="affiliation" value="Universidad del Quindio"></attvalue>
         </attvalues>
-        <viz:size value="6.470588"></viz:size>
-        <viz:position x="213.5124" y="-79.71786"></viz:position>
-        <viz:color r="83" g="212" b="0"></viz:color>
+        <viz:size value="8.529411"></viz:size>
+        <viz:position x="-249.83333" y="-48.9568"></viz:position>
+        <viz:color r="60" g="217" b="0"></viz:color>
       </node>
       <node id="Esperanza Ayllón" label="Esperanza Ayllón">
         <attvalues>
@@ -3286,9 +3286,9 @@
           <attvalue for="country" value="Cuba"></attvalue>
           <attvalue for="affiliation" value="CUJAE"></attvalue>
         </attvalues>
-        <viz:size value="8.705883"></viz:size>
-        <viz:position x="-331.9303" y="-19.313097"></viz:position>
-        <viz:color r="77" g="107" b="28"></viz:color>
+        <viz:size value="12.294118"></viz:size>
+        <viz:position x="-714.26807" y="-241.80257"></viz:position>
+        <viz:color r="134" g="67" b="107"></viz:color>
       </node>
       <node id="Roser Vilà" label="Roser Vilà">
         <attvalues>
@@ -3297,9 +3297,9 @@
           <attvalue for="country" value="Spain"></attvalue>
           <attvalue for="affiliation" value="Universitat de Girona"></attvalue>
         </attvalues>
-        <viz:size value="15.411765"></viz:size>
-        <viz:position x="387.24707" y="-245.64165"></viz:position>
-        <viz:color r="255" g="99" b="155"></viz:color>
+        <viz:size value="23.588236"></viz:size>
+        <viz:position x="-1105.8401" y="-199.58797"></viz:position>
+        <viz:color r="110" g="172" b="255"></viz:color>
       </node>
       <node id="José Claudio Del Pino" label="José Claudio Del Pino">
         <attvalues>
@@ -3308,9 +3308,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="Universidade Federal do Rio Grande do Sul"></attvalue>
         </attvalues>
-        <viz:size value="17.64706"></viz:size>
-        <viz:position x="-657.84125" y="-98.98275"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="27.352942"></viz:size>
+        <viz:position x="-780.9801" y="814.5953"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="Pilar Díaz" label="Pilar Díaz">
         <attvalues>
@@ -3319,9 +3319,9 @@
           <attvalue for="country" value="Chile"></attvalue>
           <attvalue for="affiliation" value="Universidad Austral de Chile"></attvalue>
         </attvalues>
-        <viz:size value="8.705883"></viz:size>
-        <viz:position x="-115.87752" y="181.60669"></viz:position>
-        <viz:color r="0" g="100" b="112"></viz:color>
+        <viz:size value="12.294118"></viz:size>
+        <viz:position x="-342.53806" y="-235.42389"></viz:position>
+        <viz:color r="185" g="178" b="0"></viz:color>
       </node>
       <node id="Alejandro Fernandez" label="Alejandro Fernandez">
         <attvalues>
@@ -3330,9 +3330,9 @@
           <attvalue for="country" value="Argentina"></attvalue>
           <attvalue for="affiliation" value="LIFIA, Facultad de Informática, UNLP"></attvalue>
         </attvalues>
-        <viz:size value="17.64706"></viz:size>
-        <viz:position x="-458.4426" y="-381.8891"></viz:position>
-        <viz:color r="0" g="218" b="255"></viz:color>
+        <viz:size value="27.352942"></viz:size>
+        <viz:position x="809.4537" y="594.2502"></viz:position>
+        <viz:color r="255" g="139" b="0"></viz:color>
       </node>
       <node id="Daniela González De Medina" label="Daniela González De Medina">
         <attvalues>
@@ -3341,9 +3341,9 @@
           <attvalue for="country" value="Uruguay"></attvalue>
           <attvalue for="affiliation" value="Universidad de la República"></attvalue>
         </attvalues>
-        <viz:size value="26.588236"></viz:size>
-        <viz:position x="-874.95447" y="53.138657"></viz:position>
-        <viz:color r="223" g="193" b="173"></viz:color>
+        <viz:size value="42.411766"></viz:size>
+        <viz:position x="753.1573" y="-1227.5491"></viz:position>
+        <viz:color r="223" g="191" b="164"></viz:color>
       </node>
       <node id="Luis Arredondo" label="Luis Arredondo">
         <attvalues>
@@ -3352,9 +3352,9 @@
           <attvalue for="country" value="Venezuela"></attvalue>
           <attvalue for="affiliation" value="Universidad Central de Venezuela"></attvalue>
         </attvalues>
-        <viz:size value="6.470588"></viz:size>
-        <viz:position x="118.095985" y="-201.22363"></viz:position>
-        <viz:color r="215" g="171" b="0"></viz:color>
+        <viz:size value="8.529411"></viz:size>
+        <viz:position x="34.341305" y="417.99426"></viz:position>
+        <viz:color r="0" g="104" b="116"></viz:color>
       </node>
       <node id="Leticia Lopes Leite" label="Leticia Lopes Leite">
         <attvalues>
@@ -3363,9 +3363,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="PUCRS"></attvalue>
         </attvalues>
-        <viz:size value="6.470588"></viz:size>
-        <viz:position x="-13.434751" y="-186.20729"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="8.529411"></viz:size>
+        <viz:position x="-239.75179" y="83.90424"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="Sebastián Suárez" label="Sebastián Suárez">
         <attvalues>
@@ -3374,9 +3374,9 @@
           <attvalue for="country" value="Uruguay"></attvalue>
           <attvalue for="affiliation" value="Universidad de la República"></attvalue>
         </attvalues>
-        <viz:size value="26.588236"></viz:size>
-        <viz:position x="-329.40182" y="753.0236"></viz:position>
-        <viz:color r="223" g="193" b="173"></viz:color>
+        <viz:size value="42.411766"></viz:size>
+        <viz:position x="462.0286" y="-1178.9426"></viz:position>
+        <viz:color r="223" g="191" b="164"></viz:color>
       </node>
       <node id="Cristian Cechinel" label="Cristian Cechinel">
         <attvalues>
@@ -3385,9 +3385,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="CEAD, Universidade Federal de Pelotas  (UFPel)"></attvalue>
         </attvalues>
-        <viz:size value="31.058825"></viz:size>
-        <viz:position x="-241.53914" y="-876.9602"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="49.941177"></viz:size>
+        <viz:position x="539.1934" y="888.0107"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="Valéria Machado Da Costa" label="Valéria Machado Da Costa">
         <attvalues>
@@ -3396,9 +3396,9 @@
           <attvalue for="country" value="Brazil"></attvalue>
           <attvalue for="affiliation" value="FIOCRUZ"></attvalue>
         </attvalues>
-        <viz:size value="13.176471"></viz:size>
-        <viz:position x="537.8817" y="-32.501896"></viz:position>
-        <viz:color r="255" g="131" b="255"></viz:color>
+        <viz:size value="19.82353"></viz:size>
+        <viz:position x="-636.5824" y="-711.2318"></viz:position>
+        <viz:color r="255" g="133" b="255"></viz:color>
       </node>
       <node id="Lorena Chaparro" label="Lorena Chaparro">
         <attvalues>
@@ -3407,9 +3407,9 @@
           <attvalue for="country" value="Colombia"></attvalue>
           <attvalue for="affiliation" value="universidad nacional de Colombia"></attvalue>
         </attvalues>
-        <viz:size value="15.411765"></viz:size>
-        <viz:position x="447.2144" y="-313.70782"></viz:position>
-        <viz:color r="83" g="212" b="0"></viz:color>
+        <viz:size value="23.588236"></viz:size>
+        <viz:position x="559.3007" y="964.2791"></viz:position>
+        <viz:color r="60" g="217" b="0"></viz:color>
       </node>
     </nodes>
     <edges>
