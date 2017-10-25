@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        SNtoTransform outpt = new SNtoTransform();
+        changeSNLayout outpt = new changeSNLayout();
         outpt.script();
     }
 }

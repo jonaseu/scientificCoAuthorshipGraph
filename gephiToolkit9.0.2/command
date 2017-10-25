@@ -1,0 +1,1 @@
+mvn exec:java -Dexec.mainClass="com.mycompany.gephitoolkit9.Main"
