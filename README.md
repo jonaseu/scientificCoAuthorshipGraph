@@ -9,7 +9,7 @@ The code is actually divided into 3 big steps in different programming languages
 
 # Python
 
-The Python code take two input files that must be taken from EasyChair, the "articles.html" and "author_list.xlsx". For this step to work properly, the input files must precisely match from "EasyChair", this means that "articles.html" must contain all the articles names in order that they appear on the "accepted" worksheet from "author_list.xlsx".
+The Python code takes two input files that must be taken from EasyChair, the "articles.html" and "author_list.xlsx". For this step to work properly, the input files must precisely match from "EasyChair", this means that "articles.html" must contain all the articles names in order that they appear on the "accepted" worksheet from "author_list.xlsx".
 After collecting the input and transforming it into a single table (mixing the articles table and the authorlist table), the algorithm then groups names that are probably the same, according to a threshold [Levenshtein distance](https://en.wikipedia.org/wiki/Levenshtein_distance), for fixing the disambiguation problem in conferences (same author referred multiple times in a different way). After this small filter, it creates the social network, the authors being the nodes and the coauthorship relation being the edges.
 
 # Gephi Toolkit (Java)
