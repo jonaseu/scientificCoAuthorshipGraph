@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup 		#For reading the articles title from  HTML
 minAuthorLevenshteinDistance	= 0.7
 minEmailLevenshteinDistance		= 0.8
 
-def getGroupedTableFromEasyChairFiles(authorsPath,articlesPath):
+def getTableFromEasyChair(authorsPath,articlesPath):
 	''' Outputs a table that is a mix of 'authors.xlsx' and 'articles.html' files extracted manually from EasyChair. First input must be
 	the authors file, and the second must be the articles path. This is for having a single table that contains all the data of the conference,
 	containing all the names of the published articles and who wrote it.
