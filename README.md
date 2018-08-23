@@ -2,6 +2,7 @@
 
 Authors: 
 Cristian Cechinel ( cris16marte@gmail.com ) - Universidade Federal de Santa Catarina
+
 Jônatas Negri Grandini ( jonatasgrandini@hotmail.com ) - Universidade Federal de Santa Catarina
 
 # What is this project?
