@@ -1,3 +1,9 @@
+# Co-autorship network visualizer for EasyChair managed conferences #
+
+Authors: 
+Cristian Cechinel ( cris16marte@gmail.com ) - Universidade Federal de Santa Catarina
+Jônatas Negri Grandini ( jonatasgrandini@hotmail.com ) - Universidade Federal de Santa Catarina
+
 # What is this project?
 
 To help better and easily visualize how authors interact in a conference, this project takes a list of authors and their respective articles from EasyChair and then generate the social network from the conference. In this network, the nodes are the Authors and the authors whom this author worked with are the edges. This output social network (SN) is visible in an amazing [JavaScript project](https://github.com/raphv/gexf-js) with some small adaptations to be fitted in a conference network. This presented data visualization tool allows anyone to rapidly see who are the most connected authors, from wich country they are and many other specific characteristics from the author.
